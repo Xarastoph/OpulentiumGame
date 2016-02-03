@@ -766,3 +766,379 @@ kernel32.dll
 ntdll.dll
 ntdll.dll
 
+[2016.02.03-20.23.23:313][ 85]LogHttp:Warning: Timeout processing Http request. 00000000B73C7E00
+[2016.02.03-20.24.22:240][291]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.22:240][291]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.22:269][291]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.26:868][340]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.26:868][340]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.26:868][340]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.31:031][384]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:031][384]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:111][385]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:111][385]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:120][385]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:120][385]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:205][386]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:205][386]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:224][386]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:224][386]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:299][387]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:299][387]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:316][387]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:316][387]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:394][388]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:394][388]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.31:410][388]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.31:855][393]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.31:855][393]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.31:855][393]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.31:856][393]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.31:856][393]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.35:299][429]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.35:299][429]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.35:299][429]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.39:034][467]LogScript:Warning: Cannot access 'BP_Squire_C_0'. It is pending kill. Property: 'Actor_7_3EAB08CE4FC54AC8C503DF8C2A1BD043'
+	BP_Minimap_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_OpHUD_C_0.WidgetTree_345.BP_Minimap_45
+	Function /Game/Blueprints/Widget/BP_Minimap.BP_Minimap_C:ExecuteUbergraph_BP_Minimap:089A
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.40:266][481]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.03-20.24.50:570][590]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_23
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.50:570][590]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_23
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.50:648][591]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_23
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.50:648][591]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_23
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:204][597]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.51:204][597]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.51:204][597]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.51:522][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:522][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:594][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:594][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:608][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:608][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:697][602]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:697][602]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:721][602]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:721][602]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:791][603]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:791][603]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:815][603]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:816][603]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:877][604]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.51:877][604]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.03-20.24.51:890][604]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_25
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.03-20.24.52:636][612]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.52:636][612]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.24.52:636][612]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.52:638][612]LogScript:Warning: Divide by zero: Divide_IntInt
+[2016.02.03-20.24.52:638][612]LogScript:Warning: Attempted to get an item from array PatrolChain out of bounds [0/0]!
+[2016.02.03-20.25.11:082][801]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.03-20.25.11:111][801]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2016.02.03-20.25.11:446][801]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039F7BEC0
+[2016.02.03-20.25.11:660][802]LogPlayLevel:Display: Destroying online subsystem :Context_9
+[2016.02.03-20.25.11:670][802]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.03-20.25.28:800][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.02.03-20.25.29:710][866]Cmd: QUIT_EDITOR
+[2016.02.03-20.25.30:183][866]LogExit: Preparing to exit.
+[2016.02.03-20.25.31:932][866]LogExit: Editor shut down
+[2016.02.03-20.25.31:932][866]LogExit: Transaction tracking system shut down
+[2016.02.03-20.25.31:998][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000049C7D8A0
+[2016.02.03-20.25.31:998][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023495080
+[2016.02.03-20.25.31:998][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000230994E0
+[2016.02.03-20.25.31:998][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000234B3C40
+[2016.02.03-20.25.31:998][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000234B3E20
+[2016.02.03-20.25.31:999][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000234DDC60
+[2016.02.03-20.25.31:999][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000234C5A80
+[2016.02.03-20.25.31:999][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000234DCFE0
+[2016.02.03-20.25.32:006][866]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007EF994E0
+[2016.02.03-20.25.33:503][866]LogExit: Object subsystem successfully closed.
+[2016.02.03-20.25.33:711][866]LogD3D11RHI: Shutdown
+[2016.02.03-20.25.33:711][866]LogD3D11RHI: CleanupD3DDevice
+[2016.02.03-20.25.33:767][866]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.03-20.25.34:904][866]LogModuleManager: Shutting down and abandoning module CookingStats (203)
+[2016.02.03-20.25.34:904][866]LogModuleManager: Shutting down and abandoning module BlueprintGraph (202)
+[2016.02.03-20.25.34:904][866]LogModuleManager: Shutting down and abandoning module WidgetCarousel (201)
+[2016.02.03-20.25.34:934][866]LogModuleManager: Shutting down and abandoning module AddContentDialog (200)
+[2016.02.03-20.25.34:966][866]LogModuleManager: Shutting down and abandoning module EditorWidgets (199)
+[2016.02.03-20.25.34:966][866]LogModuleManager: Shutting down and abandoning module CollectionManager (198)
+[2016.02.03-20.25.34:996][866]LogModuleManager: Shutting down and abandoning module CrashTracker (197)
+[2016.02.03-20.25.34:996][866]LogModuleManager: Shutting down and abandoning module SuperSearch (196)
+[2016.02.03-20.25.34:996][866]LogModuleManager: Shutting down and abandoning module SceneOutliner (195)
+[2016.02.03-20.25.34:996][866]LogModuleManager: Shutting down and abandoning module StatsViewer (194)
+[2016.02.03-20.25.35:026][866]LogModuleManager: Shutting down and abandoning module FoliageEdit (193)
+[2016.02.03-20.25.35:038][866]LogModuleManager: Shutting down and abandoning module LandscapeEditor (192)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module ActorPickerMode (191)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module GeometryMode (190)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module TextureAlignMode (189)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module BspMode (188)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module PlacementMode (187)
+[2016.02.03-20.25.35:062][866]LogModuleManager: Shutting down and abandoning module AutomationWorker (186)
+[2016.02.03-20.25.35:063][866]LogModuleManager: Shutting down and abandoning module CharacterAI (185)
+[2016.02.03-20.25.35:063][866]LogModuleManager: Shutting down and abandoning module SmartSnapping (184)
+[2016.02.03-20.25.35:063][866]LogModuleManager: Shutting down and abandoning module ViewportSnapping (183)
+[2016.02.03-20.25.35:063][866]LogModuleManager: Shutting down and abandoning module LogVisualizer (182)
+[2016.02.03-20.25.35:081][866]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (181)
+[2016.02.03-20.25.35:099][866]LogModuleManager: Shutting down and abandoning module IntroTutorials (180)
+[2016.02.03-20.25.35:122][866]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (179)
+[2016.02.03-20.25.35:122][866]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (178)
+[2016.02.03-20.25.35:125][866]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (177)
+[2016.02.03-20.25.35:125][866]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (176)
+[2016.02.03-20.25.35:218][866]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (175)
+[2016.02.03-20.25.35:219][866]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (174)
+[2016.02.03-20.25.35:219][866]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (173)
+[2016.02.03-20.25.35:219][866]LogModuleManager: Shutting down and abandoning module MergeActors (172)
+[2016.02.03-20.25.35:239][866]LogModuleManager: Shutting down and abandoning module SizeMap (171)
+[2016.02.03-20.25.35:239][866]LogModuleManager: Shutting down and abandoning module TreeMap (170)
+[2016.02.03-20.25.35:270][866]LogModuleManager: Shutting down and abandoning module ReferenceViewer (169)
+[2016.02.03-20.25.35:292][866]LogModuleManager: Shutting down and abandoning module LocalizationService (168)
+[2016.02.03-20.25.35:297][866]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (167)
+[2016.02.03-20.25.35:310][866]LogModuleManager: Shutting down and abandoning module HardwareTargeting (166)
+[2016.02.03-20.25.35:318][866]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (165)
+[2016.02.03-20.25.35:330][866]LogModuleManager: Shutting down and abandoning module UndoHistory (164)
+[2016.02.03-20.25.35:341][866]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (163)
+[2016.02.03-20.25.35:353][866]LogModuleManager: Shutting down and abandoning module UserFeedback (162)
+[2016.02.03-20.25.35:353][866]LogModuleManager: Shutting down and abandoning module XmlParser (161)
+[2016.02.03-20.25.35:353][866]LogModuleManager: Shutting down and abandoning module Blutility (160)
+[2016.02.03-20.25.35:353][866]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (159)
+[2016.02.03-20.25.35:357][866]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (158)
+[2016.02.03-20.25.35:357][866]LogModuleManager: Shutting down and abandoning module InputBindingEditor (157)
+[2016.02.03-20.25.35:379][866]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (156)
+[2016.02.03-20.25.35:379][866]LogModuleManager: Shutting down and abandoning module SettingsEditor (155)
+[2016.02.03-20.25.35:405][866]LogModuleManager: Shutting down and abandoning module ProjectLauncher (154)
+[2016.02.03-20.25.35:425][866]LogModuleManager: Shutting down and abandoning module SessionFrontend (153)
+[2016.02.03-20.25.35:443][866]LogModuleManager: Shutting down and abandoning module ProfilerClient (152)
+[2016.02.03-20.25.35:456][866]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (151)
+[2016.02.03-20.25.35:456][866]LogModuleManager: Shutting down and abandoning module DeviceManager (150)
+[2016.02.03-20.25.35:459][866]LogModuleManager: Shutting down and abandoning module AutomationController (149)
+[2016.02.03-20.25.35:466][866]LogModuleManager: Shutting down and abandoning module AutomationWindow (148)
+[2016.02.03-20.25.35:476][866]LogModuleManager: Shutting down and abandoning module Layers (147)
+[2016.02.03-20.25.35:495][866]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (146)
+[2016.02.03-20.25.35:495][866]LogModuleManager: Shutting down and abandoning module DetailCustomizations (145)
+[2016.02.03-20.25.35:511][866]LogModuleManager: Shutting down and abandoning module PackagesDialog (144)
+[2016.02.03-20.25.35:511][866]LogModuleManager: Shutting down and abandoning module Persona (143)
+[2016.02.03-20.25.35:562][866]LogModuleManager: Shutting down and abandoning module Kismet (142)
+[2016.02.03-20.25.35:562][866]LogModuleManager: Shutting down and abandoning module GraphEditor (141)
+[2016.02.03-20.25.35:563][866]LogModuleManager: Shutting down and abandoning module ClassViewer (140)
+[2016.02.03-20.25.35:575][866]LogModuleManager: Shutting down and abandoning module Toolbox (139)
+[2016.02.03-20.25.35:575][866]LogModuleManager: Shutting down and abandoning module ModuleUI (138)
+[2016.02.03-20.25.35:588][866]LogModuleManager: Shutting down and abandoning module MovieSceneTools (137)
+[2016.02.03-20.25.35:603][866]LogModuleManager: Shutting down and abandoning module OutputLog (136)
+[2016.02.03-20.25.35:603][866]LogModuleManager: Shutting down and abandoning module GammaUI (135)
+[2016.02.03-20.25.35:611][866]LogModuleManager: Shutting down and abandoning module Documentation (134)
+[2016.02.03-20.25.35:612][866]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (133)
+[2016.02.03-20.25.35:623][866]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (132)
+[2016.02.03-20.25.35:623][866]LogModuleManager: Shutting down and abandoning module AnalyticsET (131)
+[2016.02.03-20.25.35:623][866]LogModuleManager: Shutting down and abandoning module Analytics (130)
+[2016.02.03-20.25.35:623][866]LogModuleManager: Shutting down and abandoning module AITestSuite (129)
+[2016.02.03-20.25.35:629][866]LogModuleManager: Shutting down and abandoning module GameplayDebugger (128)
+[2016.02.03-20.25.35:645][866]LogModuleManager: Shutting down and abandoning module AIModule (127)
+[2016.02.03-20.25.35:645][866]LogModuleManager: Shutting down and abandoning module ProfilerService (126)
+[2016.02.03-20.25.35:723][866]LogModuleManager: Shutting down and abandoning module TaskGraph (125)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module SlateRemote (124)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module SteamVRController (123)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module SteamVR (122)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (121)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module OculusLibrary (120)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module OculusInput (119)
+[2016.02.03-20.25.35:733][866]LogModuleManager: Shutting down and abandoning module LeapMotionController (118)
+[2016.02.03-20.25.35:758][866]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (117)
+[2016.02.03-20.25.35:758][866]LogModuleManager: Shutting down and abandoning module CableComponent (116)
+[2016.02.03-20.25.35:762][866]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (115)
+[2016.02.03-20.25.35:762][866]LogModuleManager: Shutting down and abandoning module MessagingDebugger (114)
+[2016.02.03-20.25.35:783][866]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (113)
+[2016.02.03-20.25.35:792][866]LogModuleManager: Shutting down and abandoning module HTML5Networking (112)
+[2016.02.03-20.25.35:792][866]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (111)
+[2016.02.03-20.25.35:792][866]LogModuleManager: Shutting down and abandoning module PluginBrowser (110)
+[2016.02.03-20.25.35:803][866]LogModuleManager: Shutting down and abandoning module EpicSurvey (109)
+[2016.02.03-20.25.35:806][866]LogModuleManager: Shutting down and abandoning module DesktopPlatform (108)
+[2016.02.03-20.25.35:812][866]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (107)
+[2016.02.03-20.25.35:812][866]LogModuleManager: Shutting down and abandoning module UObjectPlugin (106)
+[2016.02.03-20.25.35:812][866]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (105)
+[2016.02.03-20.25.35:824][866]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (104)
+[2016.02.03-20.25.35:836][866]LogModuleManager: Shutting down and abandoning module SourceControl (103)
+[2016.02.03-20.25.35:839][866]LogModuleManager: Shutting down and abandoning module GitSourceControl (102)
+[2016.02.03-20.25.35:839][866]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (101)
+[2016.02.03-20.25.35:839][866]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (100)
+[2016.02.03-20.25.35:844][866]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (99)
+[2016.02.03-20.25.35:844][866]LogModuleManager: Shutting down and abandoning module MeshPaint (98)
+[2016.02.03-20.25.35:844][866]LogModuleManager: Shutting down and abandoning module SlateReflector (97)
+[2016.02.03-20.25.35:862][866]LogModuleManager: Shutting down and abandoning module HotReload (96)
+[2016.02.03-20.25.35:873][866]LogModuleManager: Shutting down and abandoning module MainFrame (95)
+[2016.02.03-20.25.35:874][866]LogModuleManager: Shutting down and abandoning module LevelEditor (94)
+[2016.02.03-20.25.35:880][866]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (93)
+[2016.02.03-20.25.35:882][866]LogModuleManager: Shutting down and abandoning module AssetRegistry (92)
+[2016.02.03-20.25.36:139][866]LogModuleManager: Shutting down and abandoning module ContentBrowser (91)
+[2016.02.03-20.25.36:140][866]LogModuleManager: Shutting down and abandoning module Paper2DEditor (90)
+[2016.02.03-20.25.36:178][866]LogModuleManager: Shutting down and abandoning module Opulentium (89)
+[2016.02.03-20.25.36:178][866]LogModuleManager: Shutting down and abandoning module UdpMessaging (88)
+[2016.02.03-20.25.36:278][866]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (87)
+[2016.02.03-20.25.36:278][866]LogModuleManager: Shutting down and abandoning module Paper2D (86)
+[2016.02.03-20.25.36:287][866]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (85)
+[2016.02.03-20.25.36:300][866]LogModuleManager: Shutting down and abandoning module Media (84)
+[2016.02.03-20.25.36:300][866]LogModuleManager: Shutting down and abandoning module WmfMedia (83)
+[2016.02.03-20.25.36:318][866]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2016.02.03-20.25.36:318][866]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (81)
+[2016.02.03-20.25.36:318][866]LogModuleManager: Shutting down and abandoning module PropertyEditor (80)
+[2016.02.03-20.25.36:318][866]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (79)
+[2016.02.03-20.25.36:360][866]LogModuleManager: Shutting down and abandoning module FunctionalTesting (78)
+[2016.02.03-20.25.36:360][866]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (77)
+[2016.02.03-20.25.36:382][866]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (76)
+[2016.02.03-20.25.36:382][866]LogModuleManager: Shutting down and abandoning module MessageLog (75)
+[2016.02.03-20.25.36:382][866]LogModuleManager: Shutting down and abandoning module Sequencer (74)
+[2016.02.03-20.25.36:431][866]LogModuleManager: Shutting down and abandoning module AssetTools (73)
+[2016.02.03-20.25.36:446][866]LogModuleManager: Shutting down and abandoning module UMGEditor (72)
+[2016.02.03-20.25.36:458][866]LogModuleManager: Shutting down and abandoning module UMG (71)
+[2016.02.03-20.25.36:458][866]LogModuleManager: Shutting down and abandoning module Slate (70)
+[2016.02.03-20.25.36:458][866]LogModuleManager: Shutting down and abandoning module EditorStyle (69)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module SessionServices (68)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (67)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (66)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module XAudio2 (65)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module Networking (64)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module Core (63)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module KismetCompiler (62)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module PhysXFormats (61)
+[2016.02.03-20.25.36:465][866]LogModuleManager: Shutting down and abandoning module MeshUtilities (60)
+[2016.02.03-20.25.36:478][866]LogModuleManager: Shutting down and abandoning module DerivedDataCache (59)
+[2016.02.03-20.25.36:535][866]LogDerivedDataCache: Shutdown
+[2016.02.03-20.25.36:535][866]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (58)
+[2016.02.03-20.25.36:544][866]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (57)
+[2016.02.03-20.25.36:544][866]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (56)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (55)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (54)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (52)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module ImageWrapper (51)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (50)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (49)
+[2016.02.03-20.25.36:557][866]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (48)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (47)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (46)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (45)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (44)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (43)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Messaging (42)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (41)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (40)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (39)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (38)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (37)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (36)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (35)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (34)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (33)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (32)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (31)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (30)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (29)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (28)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (27)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module TargetPlatform (26)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module InputCore (25)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Settings (24)
+[2016.02.03-20.25.36:569][866]LogModuleManager: Shutting down and abandoning module Voice (22)
+[2016.02.03-20.25.36:577][866]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.03-20.25.36:577][866]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.03-20.25.36:578][866]LogOnline:Display: Unloading online subsystem: Null
+[2016.02.03-20.25.36:578][866]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.03-20.25.38:578][866]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.03-20.25.38:656][866]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.03-20.25.38:666][866]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.03-20.25.38:666][866]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.03-20.25.38:670][866]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.03-20.25.38:670][866]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.03-20.25.38:670][866]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.03-20.25.38:689][866]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.03-20.25.38:700][866]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.03-20.25.38:706][866]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.03-20.25.38:706][866]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.03-20.25.38:706][866]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.03-20.25.38:721][866]LogExit: Exiting.
+[2016.02.03-20.25.38:736][866]Log file closed, 02/03/16 20:25:38
