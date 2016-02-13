@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿[2016.02.13-19.02.29:938][  0]Log file open, 02/13/16 20:02:29
 [2016.02.13-19.02.29:938][  0]LogInit:Display: Running engine for game: Opulentium
 [2016.02.13-19.02.29:938][  0]LogPlatformFile: Not using cached read wrapper
@@ -6963,3 +6964,760 @@ ntdll.dll
 [2016.02.13-19.44.59:669][197]LogModuleManager: Shutting down and abandoning module PakFile (1)
 [2016.02.13-19.44.59:671][197]LogExit: Exiting.
 [2016.02.13-19.44.59:744][197]Log file closed, 02/13/16 20:44:59
+=======
+﻿[2016.02.13-18.30.51:029][  0]Log file open, 02/13/16 18:30:51
+[2016.02.13-18.30.51:029][  0]LogInit:Display: Running engine for game: Opulentium
+[2016.02.13-18.30.51:029][  0]LogPlatformFile: Not using cached read wrapper
+[2016.02.13-18.30.51:029][  0]LogInit:Display: RandInit(1831676183) SRandInit(1831676184).
+[2016.02.13-18.30.51:029][  0]LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+[2016.02.13-18.30.51:029][  0]LogStats: Stats thread started at 0.077065
+[2016.02.13-18.30.51:029][  0]LogInit: Version: 4.10.2-2818068+++depot+UE4-Releases+4.10
+[2016.02.13-18.30.51:029][  0]LogInit: API Version: 2758231
+[2016.02.13-18.30.51:029][  0]LogInit: Compiled (64-bit): Jan  6 2016 17:36:42
+[2016.02.13-18.30.51:029][  0]LogInit: Compiled with Visual C++: 19.00.23026.00
+[2016.02.13-18.30.51:029][  0]LogInit: Build Configuration: Development
+[2016.02.13-18.30.51:029][  0]LogInit: Branch Name: ++depot+UE4-Releases+4.10
+[2016.02.13-18.30.51:029][  0]LogInit: Command line:  
+[2016.02.13-18.30.51:029][  0]LogInit: Base directory: C:/Program Files/Epic Games/4.10/Engine/Binaries/Win64/
+[2016.02.13-18.30.51:029][  0]LogInit: Rocket: 1
+[2016.02.13-18.30.51:055][  0]LogInit: Using libcurl 7.41.0
+[2016.02.13-18.30.51:055][  0]LogInit:  - built for x86_64-pc-win32
+[2016.02.13-18.30.51:055][  0]LogInit:  - supports SSL with WinSSL
+[2016.02.13-18.30.51:055][  0]LogInit:  - other features:
+[2016.02.13-18.30.51:055][  0]LogInit:      CURL_VERSION_SSL
+[2016.02.13-18.30.51:055][  0]LogInit:      CURL_VERSION_IPV6
+[2016.02.13-18.30.51:055][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2016.02.13-18.30.51:055][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2016.02.13-18.30.51:055][  0]LogInit:      CURL_VERSION_IDN
+[2016.02.13-18.30.51:055][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2016.02.13-18.30.51:055][  0]LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+[2016.02.13-18.30.51:055][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2016.02.13-18.30.51:055][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2016.02.13-18.30.51:055][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2016.02.13-18.30.51:074][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.02.13-18.30.51:080][  0]LogVoice:Warning: Failed to initialize voice interface
+[2016.02.13-18.30.51:084][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2016.02.13-18.30.51:091][  0]LogInit: Object subsystem initialized
+[2016.02.13-18.30.51:092][  0]LogInit: Selected Device Profile: [Windows]
+[2016.02.13-18.30.51:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.02.13-18.30.51:130][  0]LogInit: Computer: MORAX-PC
+[2016.02.13-18.30.51:130][  0]LogInit: User: Morax
+[2016.02.13-18.30.51:130][  0]LogInit: CPU Page size=4096, Cores=4
+[2016.02.13-18.30.51:130][  0]LogInit: High frequency timer resolution =2.241083 MHz
+[2016.02.13-18.30.51:130][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.02.13-18.30.51:130][  0]LogMemory: Platform Memory Stats for Windows
+[2016.02.13-18.30.51:130][  0]LogMemory: Process Physical Memory: 64.47 MB used, 64.47 MB peak
+[2016.02.13-18.30.51:130][  0]LogMemory: Process Virtual Memory: 63.16 MB used, 63.16 MB peak
+[2016.02.13-18.30.51:130][  0]LogMemory: Physical Memory: 2347.85 MB used, 8077.86 MB total
+[2016.02.13-18.30.51:130][  0]LogMemory: Virtual Memory: 365.32 MB used, 8388608.00 MB total
+[2016.02.13-18.30.51:834][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2016.02.13-18.30.53:708][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 630M            (Feature Level 11_0)
+[2016.02.13-18.30.53:708][  0]LogD3D11RHI: Adapter has 2000MB of dedicated video memory, 0MB of dedicated system memory, and 2047MB of shared system memory, 1 output[s]
+[2016.02.13-18.30.53:745][  0]LogD3D11RHI: Found D3D11 adapter 1: NVIDIA GeForce GT 630M            (Feature Level 11_0)
+[2016.02.13-18.30.53:745][  0]LogD3D11RHI: Adapter has 2000MB of dedicated video memory, 0MB of dedicated system memory, and 2047MB of shared system memory, 0 output[s]
+[2016.02.13-18.30.53:745][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2016.02.13-18.30.53:795][  0]LogD3D11RHI: !Direct3DDevice
+[2016.02.13-18.30.53:796][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.02.13-18.30.53:828][  0]LogD3D11RHI: Async texture creation enabled
+[2016.02.13-18.30.53:843][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Intermediate/Shaders/WorkingDirectory/7980/).
+[2016.02.13-18.30.53:844][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Morax/AppData/Local/Temp/UnrealShaderWorkingDir/61F5751D41EA382EF6250B86BDAC42A1/'.
+[2016.02.13-18.30.53:844][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.02.13-18.31.02:133][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.02.13-18.31.02:158][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.02.13-18.31.02:178][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.02.13-18.31.02:197][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.02.13-18.31.02:222][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.02.13-18.31.02:240][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.02.13-18.31.02:253][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.02.13-18.31.02:271][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.02.13-18.31.02:285][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.02.13-18.31.02:293][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.02.13-18.31.02:302][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.02.13-18.31.02:332][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.02.13-18.31.02:332][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.02.13-18.31.02:349][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.02.13-18.31.02:472][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.02.13-18.31.02:494][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.02.13-18.31.02:509][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.02.13-18.31.02:575][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.02.13-18.31.02:575][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.02.13-18.31.03:237][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache: Loaded boot cache 0.73s 41MB C:/Users/Morax/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc.
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Morax/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.02.13-18.31.04:049][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.02.13-18.31.04:229][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.02.13-18.31.04:242][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Morax/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.02.13-18.31.10:709][  0]LogInit: Selected Device Profile: [Windows]
+[2016.02.13-18.31.10:710][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2016.02.13-18.31.10:971][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.02.13-18.31.10:971][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.02.13-18.31.41:341][  0]LogAssetRegistry: FAssetRegistry took 0.0100 seconds to start up
+[2016.02.13-18.31.41:384][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.02.13-18.31.43:230][  0]SourceControl: Info Source control is disabled
+[2016.02.13-18.31.45:784][  0]LogObj: 28839 objects as part of root set at end of initial load.
+[2016.02.13-18.31.45:784][  0]LogUObjectAllocator: 6169256 out of 0 bytes used by permanent object pool.
+[2016.02.13-18.31.46:049][  0]LogEngine: Initializing Engine...
+[2016.02.13-18.31.46:052][  0]LogHMD: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2016.02.13-18.31.46:117][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.02.13-18.31.46:264][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.02.13-18.31.46:324][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.13-18.31.46:571][  0]LogInit: FAudioDevice initialized.
+[2016.02.13-18.31.46:672][  0]LogDerivedDataCache: Saved boot cache 0.10s 41MB C:/Users/Morax/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc.
+[2016.02.13-18.31.46:682][  0]LogInit: Texture streaming: Enabled
+[2016.02.13-18.31.46:712][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2016.02.13-18.31.46:712][  0]LogAnalytics: [UEEditor.Rocket.Release] APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.10.2-2818068+++depot+UE4-Releases+4.10
+[2016.02.13-18.31.46:712][  0]LogAnalytics: [UEEditor.Rocket.Release] SetUserId 1f916c464b41818c79263184b8a317fa|92d59e447d7f48e990c00cb250ceef28|50a588ae-cf5d-4a4b-b988-d8f9b21af960
+[2016.02.13-18.31.46:727][  0]LogAnalytics: [UEEditor.Rocket.Release] AnalyticsET::StartSession
+[2016.02.13-18.31.46:759][  0]LogInit: Transaction tracking system initialized
+[2016.02.13-18.31.47:086][  0]BlueprintLog: New page: Editor Load
+[2016.02.13-18.31.48:056][  0]LocalizationService: Info Localization service is disabled
+[2016.02.13-18.31.48:672][  0]LogConsoleResponse:Display: 
+[2016.02.13-18.31.49:364][  0]LogCook:Display: Done creating registry. It took  0.00s.
+[2016.02.13-18.31.49:670][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/' took 0.15s
+[2016.02.13-18.31.49:871][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.02.13-18.31.49:871][  0]LightingResults: New page: Lighting Build
+[2016.02.13-18.31.49:876][  0]MapCheck: New page: Map Check
+[2016.02.13-18.31.49:876][  0]LightingResults: New page: Lighting Build
+[2016.02.13-18.31.49:889][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000029745620
+[2016.02.13-18.31.50:144][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_HUBController.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:180][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Structs/PlayerIDInfo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:361][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_LoadScreen.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:585][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_LobbyController.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:604][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_Lobby.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:650][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_LobbyState.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.50:742][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_LobbyPlayer.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.51:024][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Materials/Widget/MapOverview/Map_Duel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.51:060][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Materials/Widget/MapOverview/Map_LOS.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.52:362][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_Placement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.52:576][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_WeaponHit.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.52:615][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_CommandPlacement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.53:652][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/Widget/BP_RespawnMenu.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.56:620][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Materials/Glow/DefaultTextMaterialGlow.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.56:906][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_ShieldBarrier.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.57:399][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_ShieldGenerator.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.31.58:254][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_SnapPlacement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.00:561][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/HUD/VCapIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.01:351][  0]LogBlueprint:Warning: [compiler BP_CombatActor] Warning 'BP Player Primary' does not inherit from 'BP Combat Actor' ( Cast To BP_PlayerPrimary  would always fail).
+[2016.02.13-18.32.01:378][  0]LogBlueprint:Warning: [compiler BP_CombatActor] Warning [0071.38] Compile of BP_CombatActor successful, but with 1 Warning(s) [in 90 ms]
+[2016.02.13-18.32.01:380][  0]LogBlueprint:Warning: [compiler BP_CombatActor] Warning [0071.39] Compile of BP_CombatActor successful, but with 2 Warning(s) [in 2 ms]
+[2016.02.13-18.32.01:380][  0]LogBlueprint:Warning: [compiler BP_CombatActor] Warning [0071.39] Compile of BP_CombatActor successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:535][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning 'BP Player Primary' does not inherit from 'BP Combat Actor' ( Cast To BP_PlayerPrimary  would always fail).
+[2016.02.13-18.32.01:538][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning 'BP Player Primary' does not inherit from 'BP Combat Actor' ( Cast To BP_PlayerPrimary  would always fail).
+[2016.02.13-18.32.01:538][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning Can't connect pins  Pilot  and  Primary : BP Combat Actor Reference is not compatible with BP Player Primary Reference.
+[2016.02.13-18.32.01:538][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning Can't connect pins  Primary  and  Pilot : BP Player Primary Reference is not compatible with BP Combat Actor Reference.
+[2016.02.13-18.32.01:562][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning [0071.57] Compile of BP_Vehicle successful, but with 4 Warning(s) [in 57 ms]
+[2016.02.13-18.32.01:565][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning [0071.57] Compile of BP_Vehicle successful, but with 5 Warning(s) [in 2 ms]
+[2016.02.13-18.32.01:565][  0]LogBlueprint:Warning: [compiler BP_Vehicle] Warning [0071.57] Compile of BP_Vehicle successful, but with 6 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:705][  0]LogBlueprint:Warning: [compiler BP_Transport] Warning 'BP Mech' does not inherit from 'BP Combat Actor' ( Cast To BP_Mech  would always fail).
+[2016.02.13-18.32.01:706][  0]LogBlueprint:Warning: [compiler BP_Transport] Warning 'BP Mech' does not inherit from 'BP Combat Actor' ( Cast To BP_Mech  would always fail).
+[2016.02.13-18.32.01:717][  0]LogEnum:Warning: Enum Text (Offset_4_85E51B4B45D4BC90A3D9C3A97E02884E=(X=0.000000,Y=0.000000,Z=0.000000),Actor_5_F86223EF4502EAC31DDC39B429609E8E=None) for Enum EN_SizeType failed to resolve to any value
+[2016.02.13-18.32.01:772][  0]LogBlueprint:Warning: [compiler BP_Transport] Warning [0071.78] Compile of BP_Transport successful, but with 2 Warning(s) [in 82 ms]
+[2016.02.13-18.32.01:773][  0]LogBlueprint:Warning: [compiler BP_Transport] Warning [0071.78] Compile of BP_Transport successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:773][  0]LogBlueprint:Warning: [compiler BP_Transport] Warning [0071.78] Compile of BP_Transport successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:856][  0]LogBlueprint:Warning: ExposeOnSpawn ambiguity. Property 'ObjectProperty /Engine/Transient.REINST_BP_OpulentiumActor_C_91:PrimaryOwner', MetaData 'False', Flag 'True'
+[2016.02.13-18.32.01:857][  0]LogBlueprint:Warning: ExposeOnSpawn ambiguity. Property 'IntProperty /Engine/Transient.REINST_BP_OpulentiumActor_C_91:Team', MetaData 'False', Flag 'True'
+[2016.02.13-18.32.01:869][  0]LogBlueprint:Error: [compiler BP_StructureBuild] Error COMPILER ERROR: failed building connection with 'BP Player Primary Reference is not compatible with BP Opulentium Actor Reference.' at  Get 
+[2016.02.13-18.32.01:869][  0]LogBlueprint:Error: [compiler BP_StructureBuild] Error COMPILER ERROR: failed building connection with 'BP Structure Reference is not compatible with BP Opulentium Actor Reference.' at  SpawnActor 
+[2016.02.13-18.32.01:890][  0]LogBlueprint:Error: [compiler BP_StructureBuild] Error Variable node  Get Team  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.02.13-18.32.01:890][  0]LogBlueprint:Error: [compiler BP_StructureBuild] Error Variable node  Get HealthMax  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.02.13-18.32.01:891][  0]LogBlueprint:Error: [compiler BP_StructureBuild] Error Variable node  Set with Notify Health  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.02.13-18.32.01:913][  0]LogBlueprint:Warning: [compiler BP_StructureBuild] Warning [0071.92] Compile of BP_StructureBuild failed. 5 Fatal Issue(s) 0 Warning(s) [in 51 ms]
+[2016.02.13-18.32.01:914][  0]LogBlueprint:Warning: [compiler BP_StructureBuild] Warning [0071.92] Compile of BP_StructureBuild failed. 5 Fatal Issue(s) 1 Warning(s) [in 1 ms]
+[2016.02.13-18.32.01:915][  0]LogBlueprint:Warning: [compiler BP_StructureBuild] Warning [0071.92] Compile of BP_StructureBuild failed. 5 Fatal Issue(s) 2 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:981][  0]LogBlueprint:Warning: [compiler BP_Structure] Warning 'BP Conduit' does not inherit from 'BP Structure' ( Cast To BP_Conduit  would always fail).
+[2016.02.13-18.32.01:983][  0]LogBlueprint:Warning: [compiler BP_Structure] Warning [0071.99] Compile of BP_Structure successful, but with 1 Warning(s) [in 6 ms]
+[2016.02.13-18.32.01:984][  0]LogBlueprint:Warning: [compiler BP_Structure] Warning [0071.99] Compile of BP_Structure successful, but with 2 Warning(s) [in 0 ms]
+[2016.02.13-18.32.01:984][  0]LogBlueprint:Warning: [compiler BP_Structure] Warning [0071.99] Compile of BP_Structure successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:179][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning Can't connect pins  Primary Owner  and  Target : BP Player Primary Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.02:179][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning Can't connect pins  Target  and  Primary Owner : BP Opulentium Actor Reference is not compatible with BP Player Primary Reference.
+[2016.02.13-18.32.02:180][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning 'BP Builder' does not inherit from 'BP Opulentium Actor' ( GetProgress  would always fail).
+[2016.02.13-18.32.02:180][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning 'BP Conduit' does not inherit from 'BP Opulentium Actor' ( GetShieldShape  would always fail).
+[2016.02.13-18.32.02:185][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning Can't connect pins  Target  and  Primary Owner : BP Opulentium Actor Reference is not compatible with BP Player Primary Reference.
+[2016.02.13-18.32.02:185][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning Can't connect pins  Primary Owner  and  Target : BP Player Primary Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.02:208][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning [0072.22] Compile of BP_OpulentiumHUD successful, but with 6 Warning(s) [in 50 ms]
+[2016.02.13-18.32.02:208][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning [0072.22] Compile of BP_OpulentiumHUD successful, but with 7 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:208][  0]LogBlueprint:Warning: [compiler BP_OpulentiumHUD] Warning [0072.22] Compile of BP_OpulentiumHUD successful, but with 8 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:419][  0]LogBlueprint:Warning: [compiler BP_MoveTo] Warning Can't connect pins  Target  and  Item : BP Opulentium Actor Reference is not compatible with BP Mech Reference.
+[2016.02.13-18.32.02:421][  0]LogBlueprint:Warning: [compiler BP_MoveTo] Warning Can't connect pins  Item  and  Target : BP Mech Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.02:434][  0]LogBlueprint:Warning: [compiler BP_MoveTo] Warning [0072.44] Compile of BP_MoveTo successful, but with 2 Warning(s) [in 32 ms]
+[2016.02.13-18.32.02:434][  0]LogBlueprint:Warning: [compiler BP_MoveTo] Warning [0072.44] Compile of BP_MoveTo successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:434][  0]LogBlueprint:Warning: [compiler BP_MoveTo] Warning [0072.44] Compile of BP_MoveTo successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:788][  0]LogBlueprint:Warning: [compiler BP_Weapon] Warning 'BP Player Primary' does not inherit from 'BP Combat Actor' ( GetRotation  would always fail).
+[2016.02.13-18.32.02:793][  0]LogBlueprint:Warning: [compiler BP_Weapon] Warning [0072.80] Compile of BP_Weapon successful, but with 1 Warning(s) [in 18 ms]
+[2016.02.13-18.32.02:795][  0]LogBlueprint:Warning: [compiler BP_Weapon] Warning [0072.80] Compile of BP_Weapon successful, but with 2 Warning(s) [in 2 ms]
+[2016.02.13-18.32.02:796][  0]LogBlueprint:Warning: [compiler BP_Weapon] Warning [0072.80] Compile of BP_Weapon successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.02:994][  0]LogBlueprint:Warning: [compiler BP_UpgradeNode] Warning 'BP Conduit' does not inherit from 'BP Structure' ( Cast To BP_Conduit  would always fail).
+[2016.02.13-18.32.02:995][  0]LogBlueprint:Warning: [compiler BP_UpgradeNode] Warning 'BP Conduit' does not inherit from 'BP Structure' ( Cast To BP_Conduit  would always fail).
+[2016.02.13-18.32.03:002][  0]LogBlueprint:Warning: [compiler BP_UpgradeNode] Warning [0073.01] Compile of BP_UpgradeNode successful, but with 2 Warning(s) [in 36 ms]
+[2016.02.13-18.32.03:002][  0]LogBlueprint:Warning: [compiler BP_UpgradeNode] Warning [0073.01] Compile of BP_UpgradeNode successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:002][  0]LogBlueprint:Warning: [compiler BP_UpgradeNode] Warning [0073.01] Compile of BP_UpgradeNode successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:096][  0]LogBlueprint:Warning: [compiler BP_UpgradeBuild] Warning 'BP Conduit' does not inherit from 'BP Structure' ( Cast To BP_Conduit  would always fail).
+[2016.02.13-18.32.03:106][  0]LogBlueprint:Warning: [compiler BP_UpgradeBuild] Warning [0073.11] Compile of BP_UpgradeBuild successful, but with 1 Warning(s) [in 26 ms]
+[2016.02.13-18.32.03:107][  0]LogBlueprint:Warning: [compiler BP_UpgradeBuild] Warning [0073.11] Compile of BP_UpgradeBuild successful, but with 2 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:107][  0]LogBlueprint:Warning: [compiler BP_UpgradeBuild] Warning [0073.11] Compile of BP_UpgradeBuild successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:193][  0]LogBlueprint:Warning: [compiler BP_StructurePlacement] Warning Can't connect pins  Target  and  Item : BP Opulentium Actor Reference is not compatible with BP Command Centre Reference.
+[2016.02.13-18.32.03:194][  0]LogBlueprint:Warning: [compiler BP_StructurePlacement] Warning Can't connect pins  Item  and  Target : BP Command Centre Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.03:201][  0]LogBlueprint:Warning: [compiler BP_StructurePlacement] Warning [0073.21] Compile of BP_StructurePlacement successful, but with 2 Warning(s) [in 32 ms]
+[2016.02.13-18.32.03:203][  0]LogBlueprint:Warning: [compiler BP_StructurePlacement] Warning [0073.21] Compile of BP_StructurePlacement successful, but with 3 Warning(s) [in 1 ms]
+[2016.02.13-18.32.03:203][  0]LogBlueprint:Warning: [compiler BP_StructurePlacement] Warning [0073.21] Compile of BP_StructurePlacement successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:322][  0]LogBlueprint:Warning: [compiler BP_CommandCentre] Warning Can't connect pins  Target  and  Item : BP Opulentium Actor Reference is not compatible with BP Player Primary Reference.
+[2016.02.13-18.32.03:324][  0]LogBlueprint:Warning: [compiler BP_CommandCentre] Warning Can't connect pins  Item  and  Target : BP Player Primary Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.03:333][  0]LogBlueprint:Warning: [compiler BP_CommandCentre] Warning [0073.34] Compile of BP_CommandCentre successful, but with 2 Warning(s) [in 31 ms]
+[2016.02.13-18.32.03:334][  0]LogBlueprint:Warning: [compiler BP_CommandCentre] Warning [0073.34] Compile of BP_CommandCentre successful, but with 3 Warning(s) [in 1 ms]
+[2016.02.13-18.32.03:335][  0]LogBlueprint:Warning: [compiler BP_CommandCentre] Warning [0073.34] Compile of BP_CommandCentre successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:450][  0]LogBlueprint:Error: [compiler BP_UnitBuild] Error COMPILER ERROR: failed building connection with 'BP Player Primary Reference is not compatible with BP Opulentium Actor Reference.' at  Get 
+[2016.02.13-18.32.03:454][  0]LogBlueprint:Error: [compiler BP_UnitBuild] Error This blueprint (self) is not a BP_OpulentiumActor_C, therefore ' Target ' must have a connection.
+[2016.02.13-18.32.03:455][  0]LogBlueprint:Error: [compiler BP_UnitBuild] Error Variable node  Get Team  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.02.13-18.32.03:469][  0]LogBlueprint:Warning: [compiler BP_UnitBuild] Warning [0073.48] Compile of BP_UnitBuild failed. 3 Fatal Issue(s) 0 Warning(s) [in 28 ms]
+[2016.02.13-18.32.03:471][  0]LogBlueprint:Warning: [compiler BP_UnitBuild] Warning [0073.48] Compile of BP_UnitBuild failed. 3 Fatal Issue(s) 1 Warning(s) [in 1 ms]
+[2016.02.13-18.32.03:471][  0]LogBlueprint:Warning: [compiler BP_UnitBuild] Warning [0073.48] Compile of BP_UnitBuild failed. 3 Fatal Issue(s) 2 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:488][  0]LogBlueprint:Warning: [compiler BP_RallyPoint] Warning Can't connect pins  Target  and  Builder : BP Opulentium Actor Reference is not compatible with BP Builder Reference.
+[2016.02.13-18.32.03:488][  0]LogBlueprint:Warning: [compiler BP_RallyPoint] Warning Can't connect pins  Builder  and  Target : BP Builder Reference is not compatible with BP Opulentium Actor Reference.
+[2016.02.13-18.32.03:491][  0]LogBlueprint:Warning: [compiler BP_RallyPoint] Warning [0073.50] Compile of BP_RallyPoint successful, but with 2 Warning(s) [in 8 ms]
+[2016.02.13-18.32.03:491][  0]LogBlueprint:Warning: [compiler BP_RallyPoint] Warning [0073.50] Compile of BP_RallyPoint successful, but with 3 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:491][  0]LogBlueprint:Warning: [compiler BP_RallyPoint] Warning [0073.50] Compile of BP_RallyPoint successful, but with 4 Warning(s) [in 0 ms]
+[2016.02.13-18.32.03:709][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/MarsPrimary/Weapon/BP_MarsProj01.BP_MarsProj01_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-18.32.04:790][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/HUD/VBMenu.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.04:803][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Materials/PTVIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.04:834][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Materials/PTVIcon_Down.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.04:837][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Materials/PTVIcon_Hover.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.04:861][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/VehicleBeaconIcon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.09:153][  0]LogEnum:Warning: Enum Text (Offset_4_85E51B4B45D4BC90A3D9C3A97E02884E=(X=0.000000,Y=0.000000,Z=0.000000),Actor_5_F86223EF4502EAC31DDC39B429609E8E=None) for Enum EN_SizeType failed to resolve to any value
+[2016.02.13-18.32.10:351][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/Security/Barbacan/Meshes/BP_Barbaproj.BP_Barbaproj_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-18.32.10:399][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/Security/Barbacan/Meshes/BP_Barbacan_Weapon.BP_Barbacan_Weapon_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-18.32.10:732][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/Security/Barbacan/Meshes/BP_Barbacan.BP_Barbacan_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-18.32.11:493][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_WaveBoss.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.11:510][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Blueprints/BP_SpawnerParent.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.11:878][  0]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/Security/Squire/Meshes/BP_SquireWeapon.BP_SquireWeapon_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-18.32.23:972][  0]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Sounds/Effects/GunFire01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-18.32.25:902][  0]LogAIModule: Creating AISystem for world OpTest
+[2016.02.13-18.32.26:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.02.13-18.32.26:037][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.02.13-18.32.27:260][  0]MapCheck:Warning: Warning BP_WorldInfo_C_0 BP_WorldInfo_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_WorldInfo_C_0 : Externally referenced 
+[2016.02.13-18.32.27:260][  0]MapCheck:Warning: Warning StaticMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_PowerNode_29.StaticMesh : Externally referenced 
+[2016.02.13-18.32.27:260][  0]MapCheck:Warning: Warning CollisionMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_124.CollisionMesh : Externally referenced 
+[2016.02.13-18.32.27:260][  0]MapCheck:Warning: Warning CollisionMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan2.CollisionMesh : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning CollisionMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan3.CollisionMesh : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning StaticMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_He3Deposit_C_3.StaticMesh : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning StaticMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_He3Deposit_C_4.StaticMesh : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning StaticMesh StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_He3Deposit_C_5.StaticMesh : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning MusicAudio AudioComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_WorldInfo_C_0.MusicAudio : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning BP_Barbacan2 BP_Barbacan_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan2 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning BP_Barbacan3 BP_Barbacan_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan3 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning BP_Barbacan_124 BP_Barbacan_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_124 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning BP_Destructible_C_3 BP_Destructible_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Destructible_C_3 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_277 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_277 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_278 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_278 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_279 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_279 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_280 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_280 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_281 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_281 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_282 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_282 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_283 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_283 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_284 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_284 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_285 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_285 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_286 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_286 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_287 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_287 : Externally referenced 
+[2016.02.13-18.32.27:261][  0]MapCheck:Warning: Warning ModelComponent_288 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_288 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_289 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_289 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_290 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_290 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_291 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_291 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_292 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_292 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_293 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_293 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_294 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_294 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_295 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_295 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_296 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_296 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_297 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_297 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning ModelComponent_298 ModelComponent /Game/Maps/OpTest.OpTest:PersistentLevel.ModelComponent_298 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Model_3 Model /Game/Maps/OpTest.OpTest:PersistentLevel.Model_3 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_11 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush.Model_6.Polys_11 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_67 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush2.Model_14.Polys_67 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_137 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush3.Model_14.Polys_137 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_533 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush4_14.Model_14.Polys_533 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_574 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush5.Model_17.Polys_574 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_33 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.BoxBrush6.Model_7.Polys_33 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_229 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.LinearStairBrush.Model_16.Polys_229 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Polys_387 Polys /Game/Maps/OpTest.OpTest:PersistentLevel.LinearStairBrush2.Model_16.Polys_387 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Destructible DestructibleComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Destructible_C_3.Destructible : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning NewSceneCaptureComponent2D SceneCaptureComponent2D /Game/Maps/OpTest.OpTest:PersistentLevel.WorldCap.NewSceneCaptureComponent2D : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Barbacan_Anim_C_0 Barbacan_Anim_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_124.CharacterMesh0.Barbacan_Anim_C_0 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Barbacan_Anim_C_1 Barbacan_Anim_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan2.CharacterMesh0.Barbacan_Anim_C_1 : Externally referenced 
+[2016.02.13-18.32.27:262][  0]MapCheck:Warning: Warning Barbacan_Anim_C_2 Barbacan_Anim_C /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan3.CharacterMesh0.Barbacan_Anim_C_2 : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck:Warning: Warning CharacterMesh0 SkeletalMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan2.CharacterMesh0 : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck:Warning: Warning CharacterMesh0 SkeletalMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan3.CharacterMesh0 : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck:Warning: Warning CharacterMesh0 SkeletalMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_124.CharacterMesh0 : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck:Warning: Warning PPVolume PostProcessVolume /Game/Maps/OpTest.OpTest:PersistentLevel.PPVolume : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck:Warning: Warning Volume StaticMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_TerritoryVolume_53.Volume : Externally referenced 
+[2016.02.13-18.32.27:263][  0]MapCheck: Info Map check complete: 0 Error(s), 54 Warning(s), took 1,225.44ms to complete.
+[2016.02.13-18.32.27:272][  0]LogFileHelpers: Loading map 'OpTest' took 37.401
+[2016.02.13-18.32.28:280][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.02.13-18.32.28:287][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.02.13-18.32.28:482][  0]SourceControl: Info On branch master
+[2016.02.13-18.32.28:482][  0]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2016.02.13-18.32.28:482][  0]SourceControl: Info Changes not staged for commit:
+[2016.02.13-18.32.28:482][  0]SourceControl: Info   (use "git add/rm <file>..." to update what will be committed)
+[2016.02.13-18.32.28:482][  0]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnDeployed_2016-01-28-09-56-27.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnTurret_2016-01-16-13-08-21.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnTurret_2016-01-16-13-23-29.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnTurret_2016-01-22-22-27-43.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnTurret_2016-01-22-22-36-02.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_SaturnWeapon_2016-01-28-09-48-11.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Squire_2016-01-28-09-35-34.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_StructureBuild_2016-01-22-21-45-38.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Structure_2016-01-26-10-51-52.uasset
+[2016.02.13-18.32.28:482][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFCommandCentre_2016-01-22-22-16-25.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFCommandCentre_2016-01-22-22-23-43.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFCommandCentre_2016-01-22-22-36-55.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFCommandCentre_2016-01-26-10-51-53.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFConduit_2016-01-22-22-23-24.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFConduit_2016-01-26-10-51-54.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFContainer_2016-01-22-22-15-54.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFContainer_2016-01-22-22-25-13.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFContainer_2016-01-26-10-51-52.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFFactoryT1_2016-01-22-22-28-43.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFFactoryT1_2016-01-22-22-37-07.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFFactoryT1_2016-01-26-10-51-53.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFHe3Extractor_2016-01-22-22-25-51.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFHe3Extractor_2016-01-26-10-51-52.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-20-21-13-25.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-20-22-08-38.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-22-22-27-06.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-24-12-45-01.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-26-09-49-59.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-26-09-55-31.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_2016-01-26-10-55-18.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-20-22-21-41.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-14-32-16.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-05-17.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-11-15.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-19-30.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-25-10.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-36-53.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-42-55.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-48-02.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFPTV_Anim_2016-01-22-20-54-41.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFVB_2016-01-22-22-29-20.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFVB_2016-01-22-22-37-07.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_TFVB_2016-01-26-10-51-53.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Transport_2016-01-26-09-49-58.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-20-21-06-44.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-15-43-51.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-16-06-07.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-16-11-17.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-16-42-44.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-16-52-01.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-17-01-59.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-18-11-46.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-18-21-49.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-18-39-12.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	deleted:    Saved/Backup/BP_Vehicle_2016-01-22-22-48-22.uasset
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	modified:   Saved/Config/Windows/Editor.ini
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2016.02.13-18.32.28:483][  0]SourceControl: Info 	modified:   Saved/Logs/Opulentium.log
+[2016.02.13-18.32.28:483][  0]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2016.02.13-18.32.28:572][  0]LogLoad: Full Startup: 98.58 seconds (BP compile: 5.35 seconds)
+[2016.02.13-18.32.28:917][  0]LogOcInput: Can't find Oculus library dev build: is proper Runtime installed? Version: 0.8.0.0
+[2016.02.13-18.32.29:084][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 (Frame:1).
+[2016.02.13-18.32.29:120][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.02.13-18.32.29:310][  0]LogRenderer: Reallocating scene render targets to support 1204x1024 (Frame:2).
+[2016.02.13-18.32.38:058][ 54]LogAssetRegistry: Asset discovery search completed in 56.7269 seconds
+[2016.02.13-18.32.38:086][ 54]LogCollectionManager: Loaded 0 collections in 0.002528 seconds
+[2016.02.13-18.32.38:118][ 54]LogFileCache: Scanning file cache for directory 'C:/Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Collections/' took 0.01s
+[2016.02.13-18.32.38:118][ 54]LogFileCache: Scanning file cache for directory 'C:/Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Developers/Morax/Collections/' took 0.01s
+[2016.02.13-18.32.38:118][ 54]LogFileCache: Scanning file cache for directory 'C:/Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Collections/' took 0.01s
+[2016.02.13-18.32.38:118][ 54]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2016.02.13-18.32.38:118][ 54]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2016.02.13-18.32.45:751][127]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2016.02.13-18.32.45:764][127]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 1914 classes and 348 folders.
+[2016.02.13-18.32.45:777][127]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2016.02.13-18.32.47:628][127]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0026 seconds. Added 0 classes and 0 folders.
+[2016.02.13-18.33.49:587][323]LogAssetTools:Warning: Failed to import 'C:\Users\Morax\AppData\Roaming\Skype\My Skype Received Files\Descructible_Wall\Descructible Wall.sbs'. Unknown extension 'sbs'.
+[2016.02.13-18.33.49:683][323]LogFactory: FactoryCreateBinary: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 C:\Users\Morax\AppData\Roaming\Skype\My Skype Received Files\Descructible_Wall\Descructible Wall.sbsar)
+[2016.02.13-18.33.57:829][323]LogMaterial: Missing cached shader map for material Wall_MAT, compiling. 
+[2016.02.13-18.34.05:895][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-18.34.05:895][474]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_0) Not registered. Aborting.
+[2016.02.13-18.34.06:502][474]LogSavePackage: Save=5.446920ms
+[2016.02.13-18.34.06:502][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Descructible_Wall46F065624B376C77719A3BA9FB444589.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Descructible_Wall.uasset'
+[2016.02.13-18.34.06:504][474]LogSavePackage: Total save time: 12.465402ms
+[2016.02.13-18.34.06:504][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Descructible_Wall.uasset
+[2016.02.13-18.34.06:640][474]LogSavePackage: Save=4.113190ms
+[2016.02.13-18.34.06:640][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST0E71CB5A4326C01385EC08AEDD826483.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset'
+[2016.02.13-18.34.06:643][474]LogSavePackage: Total save time: 7.129140ms
+[2016.02.13-18.34.06:643][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset
+[2016.02.13-18.34.06:831][474]LogSavePackage: Save=32.097874ms
+[2016.02.13-18.34.06:831][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_basecolorABF3326A4D94AF881D811B915AE0CF71.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_basecolor.uasset'
+[2016.02.13-18.34.06:834][474]LogSavePackage: Total save time: 34.655120ms
+[2016.02.13-18.34.06:834][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_basecolor.uasset
+[2016.02.13-18.34.07:149][474]LogSavePackage: Save=15.708923ms
+[2016.02.13-18.34.07:149][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_normalF3B6E17941E0296C353CB09E6ADC8C1E.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_normal.uasset'
+[2016.02.13-18.34.07:151][474]LogSavePackage: Total save time: 18.061358ms
+[2016.02.13-18.34.07:151][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_normal.uasset
+[2016.02.13-18.34.07:369][474]LogSavePackage: Save=35.973232ms
+[2016.02.13-18.34.07:369][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_roughnessEF9F6B444DF1126F0585C88381EBA2B0.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_roughness.uasset'
+[2016.02.13-18.34.07:371][474]LogSavePackage: Total save time: 38.468011ms
+[2016.02.13-18.34.07:371][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_roughness.uasset
+[2016.02.13-18.34.07:540][474]LogSavePackage: Save=7.730191ms
+[2016.02.13-18.34.07:540][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_metallic6919C78541BE727C4BD65682A5C5E756.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_metallic.uasset'
+[2016.02.13-18.34.07:543][474]LogSavePackage: Total save time: 10.490019ms
+[2016.02.13-18.34.07:543][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_metallic.uasset
+[2016.02.13-18.34.07:704][474]LogSavePackage: Save=11.689884ms
+[2016.02.13-18.34.07:704][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_ambientOcclusion6378B2784470107307208592FC73C9CA.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_ambientOcclusion.uasset'
+[2016.02.13-18.34.07:706][474]LogSavePackage: Total save time: 13.939690ms
+[2016.02.13-18.34.07:706][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_ambientOcclusion.uasset
+[2016.02.13-18.34.07:901][474]LogSavePackage: Save=17.226046ms
+[2016.02.13-18.34.07:901][474]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_MATE3CEADE7488F90FE101F42B2303BE8D3.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_MAT.uasset'
+[2016.02.13-18.34.07:903][474]LogSavePackage: Total save time: 19.662816ms
+[2016.02.13-18.34.07:903][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_MAT.uasset
+[2016.02.13-18.34.09:335][486]LogMaterial: Missing cached shader map for material Wall_MAT, compiling. 
+[2016.02.13-18.34.09:560][486]LogMaterial: Missing cached shader map for material Wall_MAT, compiling. 
+[2016.02.13-18.34.09:565][486]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.13-18.34.09:596][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2016.02.13-18.34.09:614][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2016.02.13-18.34.09:620][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2016.02.13-18.34.09:624][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2016.02.13-18.34.09:640][486]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2016.02.13-18.34.10:555][493]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 56 instructions
+[2016.02.13-18.34.10:555][493]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.13-18.34.10:555][493]MaterialEditorStats: Info Texture samplers: 5/16
+[2016.02.13-18.34.35:142][ 18]LogContentBrowser: Native class hierarchy updated for 'DestructibleMeshEditor' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2016.02.13-18.35.04:919][ 39]LogMaterial:Warning: Material /Game/Environment/Objects/Destructible/Wall_MAT.Wall_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2016.02.13-18.35.04:921][ 39]LogMaterial:Warning: Material /Engine/Transient.Wall_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2016.02.13-18.35.04:944][ 39]LogMaterial: Missing cached shader map for material Wall_MAT, compiling. 
+[2016.02.13-18.35.04:956][ 39]LogMaterial: 0.000108 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.13-18.35.04:986][ 39]LogMaterial: Missing cached shader map for material Wall_MAT, compiling. 
+[2016.02.13-18.35.05:003][ 39]LogMaterial: 0.000139 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.02.13-18.35.08:036][115]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 56 instructions
+[2016.02.13-18.35.08:036][115]MaterialEditorStats: Info Vertex shader: 33 instructions
+[2016.02.13-18.35.08:036][115]MaterialEditorStats: Info Texture samplers: 5/16
+[2016.02.13-18.35.26:984][611]LogSavePackage: Save=115.862732ms
+[2016.02.13-18.35.26:984][611]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/SimpleWall_Mesh_DM5BB38FB649DE7C68563AA5A31C96ABEE.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/SimpleWall_Mesh_DM.uasset'
+[2016.02.13-18.35.26:988][611]LogSavePackage: Total save time: 225.111254ms
+[2016.02.13-18.35.26:988][611]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/SimpleWall_Mesh_DM.uasset
+[2016.02.13-18.35.31:095][787]LogDestructible:Warning: MainMesh Tris: 12
+[2016.02.13-18.35.31:719][787]LogApexDestructibleAssetImport:Warning: Using default materials for material slot
+[2016.02.13-18.35.31:721][787]LogApexDestructibleAssetImport:Warning: Bones digested - 202  Depth of hierarchy - 2
+[2016.02.13-18.35.31:858][787]LogSkeletalMesh: Chunk 0: 1508 rigid vertices, 0 soft vertices, 176 active bones
+[2016.02.13-18.35.31:858][787]LogSkeletalMesh: Chunk 1: 10508 rigid vertices, 0 soft vertices, 200 active bones
+[2016.02.13-18.35.31:868][787]LogSkeletalMesh: Section 0: Material=0, Chunk=0, 992 triangles
+[2016.02.13-18.35.31:868][787]LogSkeletalMesh: Section 1: Material=1, Chunk=1, 6256 triangles
+[2016.02.13-18.39.32:964][508]LogMaterialEditor: Saving and Compiling material Wall_MAT
+[2016.02.13-18.39.33:122][508]LogSavePackage: Save=6.654372ms
+[2016.02.13-18.39.33:122][508]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_MATC374CA364E06A1C5F6FA0E9A42FFB65C.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_MAT.uasset'
+[2016.02.13-18.39.33:125][508]LogSavePackage: Total save time: 41.235864ms
+[2016.02.13-18.39.33:125][508]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_MAT.uasset
+[2016.02.13-18.39.41:025][701]LogSavePackage: Save=146.902191ms
+[2016.02.13-18.39.41:025][701]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/SimpleWall_Mesh_DM4393F2EA4A77CFF899616CA126B7C69A.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/SimpleWall_Mesh_DM.uasset'
+[2016.02.13-18.39.41:029][701]LogSavePackage: Total save time: 161.082834ms
+[2016.02.13-18.39.41:029][701]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/SimpleWall_Mesh_DM.uasset
+[2016.02.13-18.41.55:097][604]LogSavePackage: Save=4.830254ms
+[2016.02.13-18.41.55:097][604]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INSTBEAA1AEF47C836789A4207AA23FC1E30.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset'
+[2016.02.13-18.41.55:099][604]LogSavePackage: Total save time: 36.126286ms
+[2016.02.13-18.41.55:099][604]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset
+[2016.02.13-18.42.29:991][925]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000413F0360
+[2016.02.13-18.42.29:992][925]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000413B8B80
+[2016.02.13-18.42.29:998][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/OpTest' took 0.046
+[2016.02.13-18.42.30:006][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST] ([1] browsable assets)...
+[2016.02.13-18.42.30:007][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST]
+[2016.02.13-18.42.30:040][925]LogSavePackage: Save=4.283197ms
+[2016.02.13-18.42.30:040][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_Auto10A831C0B451FC4AC0546DE9AADF991DD.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_Auto1.uasset'
+[2016.02.13-18.42.30:041][925]LogSavePackage: Total save time: 32.871604ms
+[2016.02.13-18.42.30:041][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_Auto1.uasset
+[2016.02.13-18.42.30:048][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST_basecolor] ([1] browsable assets)...
+[2016.02.13-18.42.30:048][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST_basecolor]
+[2016.02.13-18.42.30:083][925]LogSavePackage: Save=19.795340ms
+[2016.02.13-18.42.30:083][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_basecolor_Auto119DD46B34FD57D535AB79C86394F54C8.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_basecolor_Auto1.uasset'
+[2016.02.13-18.42.30:085][925]LogSavePackage: Total save time: 34.755964ms
+[2016.02.13-18.42.30:085][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_basecolor_Auto1.uasset
+[2016.02.13-18.42.30:092][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST_normal] ([1] browsable assets)...
+[2016.02.13-18.42.30:092][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST_normal]
+[2016.02.13-18.42.30:122][925]LogSavePackage: Save=15.228352ms
+[2016.02.13-18.42.30:122][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_normal_Auto16A62CF1C46796F7BC13903A757A35BEB.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_normal_Auto1.uasset'
+[2016.02.13-18.42.30:123][925]LogSavePackage: Total save time: 29.678062ms
+[2016.02.13-18.42.30:123][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_normal_Auto1.uasset
+[2016.02.13-18.42.30:131][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST_roughness] ([1] browsable assets)...
+[2016.02.13-18.42.30:131][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST_roughness]
+[2016.02.13-18.42.30:161][925]LogSavePackage: Save=14.185553ms
+[2016.02.13-18.42.30:161][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_roughness_Auto16C9186C34625E418C9C36BACE981C361.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_roughness_Auto1.uasset'
+[2016.02.13-18.42.30:162][925]LogSavePackage: Total save time: 28.864171ms
+[2016.02.13-18.42.30:162][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_roughness_Auto1.uasset
+[2016.02.13-18.42.30:169][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST_metallic] ([1] browsable assets)...
+[2016.02.13-18.42.30:169][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST_metallic]
+[2016.02.13-18.42.30:194][925]LogSavePackage: Save=9.420892ms
+[2016.02.13-18.42.30:194][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_metallic_Auto1C9B719BE43F48FC128B2999461382DDF.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_metallic_Auto1.uasset'
+[2016.02.13-18.42.30:195][925]LogSavePackage: Total save time: 24.404719ms
+[2016.02.13-18.42.30:195][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_metallic_Auto1.uasset
+[2016.02.13-18.42.30:202][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Environment/Objects/Destructible/Wall_INST_ambientOcclusion] ([1] browsable assets)...
+[2016.02.13-18.42.30:203][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Environment/Objects/Destructible/Wall_INST_ambientOcclusion]
+[2016.02.13-18.42.30:228][925]LogSavePackage: Save=8.939428ms
+[2016.02.13-18.42.30:228][925]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_ambientOcclusion_Auto1A0F1386D4CA99C840775CFAD50F33A81.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_ambientOcclusion_Auto1.uasset'
+[2016.02.13-18.42.30:229][925]LogSavePackage: Total save time: 23.779575ms
+[2016.02.13-18.42.30:229][925]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Environment/Objects/Destructible/Wall_INST_ambientOcclusion_Auto1.uasset
+[2016.02.13-18.42.30:229][925]LogFileHelpers: Auto-saving content packages took 0.230
+[2016.02.13-18.51.46:880][427]LogEditorViewport: Clicking on Actor (LMB): BP_Destructible_C (BP_Destructible)
+[2016.02.13-18.52.15:997][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-18.52.16:387][564]LogSavePackage: Save=298.395905ms
+[2016.02.13-18.52.16:387][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTestFF903F9242D3058BFB0B3B86E779CF70.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-18.52.16:391][564]LogSavePackage: Total save time: 349.205717ms
+[2016.02.13-18.52.16:391][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-18.52.16:541][564]LogFileHelpers: Saving map 'OpTest' took 14.811
+[2016.02.13-18.52.16:600][564]LogSavePackage: Save=36.584099ms
+[2016.02.13-18.52.16:600][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST99752D614B23E8EC983F578208E0BC29.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset'
+[2016.02.13-18.52.16:606][564]LogSavePackage: Total save time: 53.771771ms
+[2016.02.13-18.52.16:606][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST.uasset
+[2016.02.13-18.52.16:746][564]LogSavePackage: Save=94.012138ms
+[2016.02.13-18.52.16:747][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_basecolor0A0C150C41BCD025DD412B9DC10E43D5.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_basecolor.uasset'
+[2016.02.13-18.52.16:760][564]LogSavePackage: Total save time: 142.252650ms
+[2016.02.13-18.52.16:760][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_basecolor.uasset
+[2016.02.13-18.52.16:833][564]LogSavePackage: Save=12.873240ms
+[2016.02.13-18.52.16:833][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_normal9D09B5D24F2B07F3A90CBAA0B5C9C628.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_normal.uasset'
+[2016.02.13-18.52.16:842][564]LogSavePackage: Total save time: 57.175484ms
+[2016.02.13-18.52.16:842][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_normal.uasset
+[2016.02.13-18.52.16:901][564]LogSavePackage: Save=14.491654ms
+[2016.02.13-18.52.16:901][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_roughness0F07749C4253F951F15CCA8A363005D4.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_roughness.uasset'
+[2016.02.13-18.52.16:910][564]LogSavePackage: Total save time: 48.581868ms
+[2016.02.13-18.52.16:910][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_roughness.uasset
+[2016.02.13-18.52.16:948][564]LogSavePackage: Save=8.883205ms
+[2016.02.13-18.52.16:948][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_metallic242D04984A483B678A514486E9FEE910.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_metallic.uasset'
+[2016.02.13-18.52.16:973][564]LogSavePackage: Total save time: 47.159787ms
+[2016.02.13-18.52.16:973][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_metallic.uasset
+[2016.02.13-18.52.17:043][564]LogSavePackage: Save=43.704762ms
+[2016.02.13-18.52.17:043][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_ambientOcclusion53A2A6EA47C4A781FE03B5A0956D0D58.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_ambientOcclusion.uasset'
+[2016.02.13-18.52.17:045][564]LogSavePackage: Total save time: 60.754556ms
+[2016.02.13-18.52.17:045][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_ambientOcclusion.uasset
+[2016.02.13-18.52.17:114][564]LogSavePackage: Save=44.527134ms
+[2016.02.13-18.52.17:114][564]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Wall_INST_heightB7409A0B4EBC40D5F16CDEA815B5163E.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_height.uasset'
+[2016.02.13-18.52.17:116][564]LogSavePackage: Total save time: 46.950515ms
+[2016.02.13-18.52.17:116][564]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Objects/Destructible/Wall_INST_height.uasset
+[2016.02.13-18.52.33:091][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-18.52.33:452][693]LogSavePackage: Save=307.276428ms
+[2016.02.13-18.52.33:452][693]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTestA601393046747892228AECB48626B4F9.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-18.52.33:461][693]LogSavePackage: Total save time: 326.318122ms
+[2016.02.13-18.52.33:461][693]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-18.52.35:300][704]Cmd: QUIT_EDITOR
+[2016.02.13-18.52.35:447][704]LogExit: Preparing to exit.
+[2016.02.13-18.52.36:586][704]LogExit: Editor shut down
+[2016.02.13-18.52.36:586][704]LogExit: Transaction tracking system shut down
+[2016.02.13-18.52.36:602][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000048E6E8E0
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002351C360
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023304CC0
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000048A9B100
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000048A9AE80
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000797FFBA0
+[2016.02.13-18.52.36:603][704]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000084E9260
+[2016.02.13-18.52.36:866][704]LogExit: Object subsystem successfully closed.
+[2016.02.13-18.52.36:876][704]LogD3D11RHI: Shutdown
+[2016.02.13-18.52.36:876][704]LogD3D11RHI: CleanupD3DDevice
+[2016.02.13-18.52.36:878][704]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.02.13-18.52.36:989][704]LogModuleManager: Shutting down and abandoning module DestructibleMeshEditor (206)
+[2016.02.13-18.52.36:989][704]LogModuleManager: Shutting down and abandoning module MaterialEditor (205)
+[2016.02.13-18.52.36:989][704]LogModuleManager: Shutting down and abandoning module CookingStats (204)
+[2016.02.13-18.52.36:989][704]LogModuleManager: Shutting down and abandoning module WidgetCarousel (203)
+[2016.02.13-18.52.36:989][704]LogModuleManager: Shutting down and abandoning module AddContentDialog (202)
+[2016.02.13-18.52.36:990][704]LogModuleManager: Shutting down and abandoning module EditorWidgets (201)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module CollectionManager (200)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module CrashTracker (199)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module SuperSearch (198)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module SceneOutliner (197)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module StatsViewer (196)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module FoliageEdit (195)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module LandscapeEditor (194)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module ActorPickerMode (193)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module GeometryMode (192)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module TextureAlignMode (191)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module BspMode (190)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module PlacementMode (189)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module AutomationWorker (188)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module CharacterAI (187)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module SmartSnapping (186)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module ViewportSnapping (185)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module LogVisualizer (184)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (183)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module IntroTutorials (182)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (181)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (180)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (179)
+[2016.02.13-18.52.36:991][704]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (178)
+[2016.02.13-18.52.37:419][704]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (177)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (176)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (175)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module MergeActors (174)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module SizeMap (173)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module TreeMap (172)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module ReferenceViewer (171)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module LocalizationService (170)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (169)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module HardwareTargeting (168)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (167)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module UndoHistory (166)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (165)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module UserFeedback (164)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module XmlParser (163)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module Blutility (162)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (161)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (160)
+[2016.02.13-18.52.37:420][704]LogModuleManager: Shutting down and abandoning module InputBindingEditor (159)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (158)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module SettingsEditor (157)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module ProjectLauncher (156)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module SessionFrontend (155)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module ProfilerClient (154)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (153)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module DeviceManager (152)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module AutomationController (151)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module AutomationWindow (150)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module Layers (149)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (148)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module DetailCustomizations (147)
+[2016.02.13-18.52.37:421][704]LogModuleManager: Shutting down and abandoning module PackagesDialog (146)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module Persona (145)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module Kismet (144)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module GraphEditor (143)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module ClassViewer (142)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module Toolbox (141)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module ModuleUI (140)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module MovieSceneTools (139)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module OutputLog (138)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module GammaUI (137)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module Documentation (136)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (135)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (134)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module AnalyticsET (133)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module Analytics (132)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module GameplayDebugger (130)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module AIModule (129)
+[2016.02.13-18.52.37:422][704]LogModuleManager: Shutting down and abandoning module ProfilerService (128)
+[2016.02.13-18.52.37:627][704]LogModuleManager: Shutting down and abandoning module TaskGraph (127)
+[2016.02.13-18.52.37:627][704]LogModuleManager: Shutting down and abandoning module SubstanceEditor (126)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module SlateRemote (125)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module SteamVRController (124)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module SteamVR (123)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (122)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module OculusLibrary (121)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module OculusInput (120)
+[2016.02.13-18.52.37:628][704]LogModuleManager: Shutting down and abandoning module LeapMotionController (119)
+[2016.02.13-18.52.37:651][704]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (118)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module CableComponent (117)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (116)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module MessagingDebugger (115)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (114)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module HTML5Networking (113)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (112)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module PluginBrowser (111)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module EpicSurvey (110)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module DesktopPlatform (109)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (108)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module UObjectPlugin (107)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (106)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (105)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module SourceControl (104)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module GitSourceControl (103)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (102)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (101)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (100)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module MeshPaint (99)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module SlateReflector (98)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module HotReload (97)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module MainFrame (96)
+[2016.02.13-18.52.37:652][704]LogModuleManager: Shutting down and abandoning module LevelEditor (95)
+[2016.02.13-18.52.37:653][704]LogModuleManager: Shutting down and abandoning module ContentBrowser (94)
+[2016.02.13-18.52.37:654][704]LogModuleManager: Shutting down and abandoning module Paper2DEditor (93)
+[2016.02.13-18.52.37:654][704]LogModuleManager: Shutting down and abandoning module Opulentium (92)
+[2016.02.13-18.52.37:654][704]LogModuleManager: Shutting down and abandoning module UdpMessaging (91)
+[2016.02.13-18.52.37:755][704]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (90)
+[2016.02.13-18.52.37:756][704]LogModuleManager: Shutting down and abandoning module AssetRegistry (89)
+[2016.02.13-18.52.38:091][704]LogModuleManager: Shutting down and abandoning module SubstanceCore (88)
+[2016.02.13-18.52.38:151][704]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (87)
+[2016.02.13-18.52.38:151][704]LogModuleManager: Shutting down and abandoning module Paper2D (86)
+[2016.02.13-18.52.38:151][704]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (85)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module Media (84)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module WmfMedia (83)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (81)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module PropertyEditor (80)
+[2016.02.13-18.52.38:155][704]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (79)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module FunctionalTesting (78)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (77)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (76)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module MessageLog (75)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module Sequencer (74)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module AssetTools (73)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module UMGEditor (72)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module UMG (71)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module Slate (70)
+[2016.02.13-18.52.38:156][704]LogModuleManager: Shutting down and abandoning module EditorStyle (69)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module SessionServices (68)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (67)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (66)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module XAudio2 (65)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module Networking (64)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module Core (63)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module KismetCompiler (62)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module PhysXFormats (61)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module MeshUtilities (60)
+[2016.02.13-18.52.38:158][704]LogModuleManager: Shutting down and abandoning module DerivedDataCache (59)
+[2016.02.13-18.52.38:235][704]LogDerivedDataCache: Shutdown
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (58)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (57)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (56)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (55)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (54)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (52)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module ImageWrapper (51)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (50)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (49)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (48)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (47)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (46)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (45)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (44)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (43)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Messaging (42)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (41)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (40)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (39)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (38)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (37)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (36)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (35)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (34)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (33)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (32)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (31)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (30)
+[2016.02.13-18.52.38:236][704]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (29)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (28)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (27)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module TargetPlatform (26)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module InputCore (25)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module Settings (24)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module Voice (22)
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.02.13-18.52.38:237][704]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-18.52.38:237][704]LogOnline:Display: Unloading online subsystem: Null
+[2016.02.13-18.52.38:237][704]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.02.13-18.52.40:239][704]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.02.13-18.52.40:241][704]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.02.13-18.52.40:241][704]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.02.13-18.52.40:241][704]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.02.13-18.52.40:241][704]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.02.13-18.52.40:242][704]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.02.13-18.52.40:244][704]LogExit: Exiting.
+[2016.02.13-18.52.40:365][704]Log file closed, 02/13/16 18:52:40
+>>>>>>> 2f723c040a481536a982d104786be93b7df1d828
