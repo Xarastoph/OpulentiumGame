@@ -1025,4 +1025,1260 @@
 [2016.02.13-12.42.01:955][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2016.02.13-12.42.02:300][793]LogSavePackage: Save=258.543304ms
 [2016.02.13-12.42.02:300][793]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTest65431E304D61A63D23E477A8E46F7F42.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
-[2016.02.13-1
+[2016.02.13-12.42.02:304][793]LogSavePackage: Total save time: 302.604590ms
+[2016.02.13-12.42.02:304][793]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-12.44.56:494][359]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2016.02.13-12.52.02:762][750]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039DFCF40
+[2016.02.13-12.52.02:763][750]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039DFE0C0
+[2016.02.13-12.52.02:781][750]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/OpTest' took 0.064
+[2016.02.13-12.52.02:796][750]LogSavePackage: Save=4.153795ms
+[2016.02.13-12.52.02:797][750]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Mesh_Auto1C5CECFAA4B2C40337504E8924A74ED4E.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_Auto1.uasset'
+[2016.02.13-12.52.02:797][750]LogSavePackage: Total save time: 5.183209ms
+[2016.02.13-12.52.02:797][750]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_Auto1.uasset
+[2016.02.13-12.52.02:810][750]LogSavePackage: Save=3.854387ms
+[2016.02.13-12.52.02:810][750]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Mesh_PhysicsAsset_Auto1EEFF2562458B15A5D8DAEE847575EC28.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_PhysicsAsset_Auto1.uasset'
+[2016.02.13-12.52.02:811][750]LogSavePackage: Total save time: 4.864611ms
+[2016.02.13-12.52.02:811][750]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_PhysicsAsset_Auto1.uasset
+[2016.02.13-12.52.02:824][750]LogSavePackage: Save=3.753989ms
+[2016.02.13-12.52.02:824][750]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Mesh_Skeleton_Auto102B18008498090A69D53CD8D3551C4F0.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_Skeleton_Auto1.uasset'
+[2016.02.13-12.52.02:864][750]LogSavePackage: Total save time: 43.471392ms
+[2016.02.13-12.52.02:864][750]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Autosaves/Game/Factions/Security/Barbacan/Barbacan_Mesh_Skeleton_Auto1.uasset
+[2016.02.13-12.52.02:864][750]LogFileHelpers: Auto-saving content packages took 0.082
+[2016.02.13-13.46.11:344][ 21]LogLinker:Warning: Asset '../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-13.46.12:150][ 21]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0031 seconds. Added 107 classes and 0 folders.
+[2016.02.13-13.46.59:667][229]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-13.46.59:997][229]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-13.47.00:291][229]LogSavePackage: Save=40.804825ms
+[2016.02.13-13.47.00:291][229]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_BarbacanD8FEBBD143FE668FBE9B63875F68B9D9.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-13.47.00:308][229]LogSavePackage: Total save time: 58.744367ms
+[2016.02.13-13.47.00:308][229]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-13.47.00:533][229]BlueprintEditorCompileResults: Info [4657.56] Compile of BP_Barbacan successful! [in 866 ms]
+[2016.02.13-13.47.14:003][589]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-13.47.14:958][614]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_1) Not registered. Aborting.
+[2016.02.13-13.47.52:820][224]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_2) Not registered. Aborting.
+[2016.02.13-13.48.01:442][732]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_3) Not registered. Aborting.
+[2016.02.13-13.48.03:485][852]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_4) Not registered. Aborting.
+[2016.02.13-13.48.05:878][993]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_5) Not registered. Aborting.
+[2016.02.13-13.48.16:182][476]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_6) Not registered. Aborting.
+[2016.02.13-13.48.18:176][591]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_7) Not registered. Aborting.
+[2016.02.13-13.48.22:380][735]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_8) Not registered. Aborting.
+[2016.02.13-13.48.35:746][189]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-13.48.35:846][189]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_9) Not registered. Aborting.
+[2016.02.13-13.48.36:152][189]LogSavePackage: Save=41.079693ms
+[2016.02.13-13.48.36:152][189]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan84A08F8846921D77358D6B877BC44755.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-13.48.36:154][189]LogSavePackage: Total save time: 80.121532ms
+[2016.02.13-13.48.36:154][189]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-13.48.36:158][189]BlueprintEditorCompileResults: Info [4753.18] Compile of BP_Barbacan successful! [in 411 ms]
+[2016.02.13-13.48.58:108][689]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-13.48.59:292][719]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-13.48.59:409][719]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_10) Not registered. Aborting.
+[2016.02.13-13.48.59:679][719]LogSavePackage: Save=39.120373ms
+[2016.02.13-13.48.59:679][719]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan991F86904BDE0E05D4D75F9AA7472589.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-13.48.59:683][719]LogSavePackage: Total save time: 74.846849ms
+[2016.02.13-13.48.59:683][719]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-13.48.59:688][719]BlueprintEditorCompileResults: Info [4776.71] Compile of BP_Barbacan successful! [in 396 ms]
+[2016.02.13-13.49.08:856][844]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2016.02.13-13.50.43:806][436]LogSavePackage: Save=4.441603ms
+[2016.02.13-13.50.43:806][436]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Mesh_Skeleton14B48522432B4C45BE4ED6957FC8F157.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Mesh_Skeleton.uasset'
+[2016.02.13-13.50.43:809][436]LogSavePackage: Total save time: 41.064966ms
+[2016.02.13-13.50.43:809][436]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Mesh_Skeleton.uasset
+[2016.02.13-13.51.33:873][657]LogSavePackage: Save=4.490686ms
+[2016.02.13-13.51.33:873][657]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Mesh_SkeletonA6F58C564180B5EF2801BBB93BD1613F.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Mesh_Skeleton.uasset'
+[2016.02.13-13.51.33:876][657]LogSavePackage: Total save time: 41.517429ms
+[2016.02.13-13.51.33:876][657]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Mesh_Skeleton.uasset
+[2016.02.13-13.52.21:160][512]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2016.02.13-13.52.23:850][529]LogSavePackage: Save=19.288889ms
+[2016.02.13-13.52.23:850][529]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim61F06D2B4008D3C94CFFAF82D69BD0FA.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.52.23:853][529]LogSavePackage: Total save time: 22.294130ms
+[2016.02.13-13.52.23:853][529]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.53.37:357][278]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.53.37:374][278]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.37:734][278]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-13.53.37:785][278]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039393380
+[2016.02.13-13.53.37:786][278]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000393904A0
+[2016.02.13-13.53.38:016][278]LogSavePackage: Save=29.562046ms
+[2016.02.13-13.53.38:016][278]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim7CF473A04046598B98C53F9B83175347.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.53.38:021][278]LogSavePackage: Total save time: 70.460130ms
+[2016.02.13-13.53.38:021][278]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.53.38:026][278]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning [5055.04] Compile of Barbacan_Anim successful, but with 1 Warning(s) [in 668 ms]
+[2016.02.13-13.53.38:026][278]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2016.02.13-13.53.38:026][278]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2016.02.13-13.53.38:026][278]BlueprintEditorCompileResults:Warning: Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.38:026][278]BlueprintEditorCompileResults:Warning: Warning [5055.04] Compile of Barbacan_Anim successful, but with 1 Warning(s) [in 668 ms]
+[2016.02.13-13.53.52:197][439]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.53.52:205][439]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.52:206][439]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Tracking to Idle  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.52:583][439]LogSavePackage: Save=30.406727ms
+[2016.02.13-13.53.52:583][439]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim7D1D4E634238C30E5E65D0BA49E564AF.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.53.52:588][439]LogSavePackage: Total save time: 49.465373ms
+[2016.02.13-13.53.52:588][439]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.53.52:592][439]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning [5069.60] Compile of Barbacan_Anim successful, but with 2 Warning(s) [in 394 ms]
+[2016.02.13-13.53.52:592][439]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2016.02.13-13.53.52:592][439]BlueprintEditorCompileResults:Warning: Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.52:592][439]BlueprintEditorCompileResults:Warning: Warning  Tracking to Idle  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.53.52:592][439]BlueprintEditorCompileResults:Warning: Warning [5069.60] Compile of Barbacan_Anim successful, but with 2 Warning(s) [in 394 ms]
+[2016.02.13-13.54.48:619][ 76]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.54.48:631][ 76]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.54.48:632][ 76]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Tracking to Idle  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.54.49:057][ 76]LogSavePackage: Save=41.053810ms
+[2016.02.13-13.54.49:057][ 76]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimB80B8F6A4AC8F28AC8C109B12AECA4BE.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.54.49:061][ 76]LogSavePackage: Total save time: 73.189616ms
+[2016.02.13-13.54.49:061][ 76]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.54.49:066][ 76]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning [5126.08] Compile of Barbacan_Anim successful, but with 2 Warning(s) [in 446 ms]
+[2016.02.13-13.54.49:066][ 76]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2016.02.13-13.54.49:066][ 76]BlueprintEditorCompileResults:Warning: Warning  Idle to Tracking  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.54.49:066][ 76]BlueprintEditorCompileResults:Warning: Warning  Tracking to Idle  will never be taken, please connect something to  Can Enter Transition 
+[2016.02.13-13.54.49:066][ 76]BlueprintEditorCompileResults:Warning: Warning [5126.08] Compile of Barbacan_Anim successful, but with 2 Warning(s) [in 446 ms]
+[2016.02.13-13.55.20:204][432]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.55.20:633][432]LogSavePackage: Save=43.427219ms
+[2016.02.13-13.55.20:633][432]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimE060BBD9463BE2F0C4C59AA68313E590.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.55.20:637][432]LogSavePackage: Total save time: 78.909174ms
+[2016.02.13-13.55.20:637][432]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.55.20:641][432]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2016.02.13-13.55.20:641][432]BlueprintEditorCompileResults: Info [5157.65] Compile of Barbacan_Anim successful! [in 437 ms]
+[2016.02.13-13.56.24:102][119]LogSavePackage: Save=49.795567ms
+[2016.02.13-13.56.24:102][119]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimB124A427490541AAA00FACA47FAFB65B.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.56.24:118][119]LogSavePackage: Total save time: 98.870948ms
+[2016.02.13-13.56.24:118][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.56.24:771][125]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.56.24:796][125]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning  Transform (Modify) Bone - Bone: Bone_GunFinger01  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2016.02.13-13.56.25:124][125]LogBlueprint:Warning: [compiler Barbacan_Anim] Warning [5222.13] Compile of Barbacan_Anim successful, but with 1 Warning(s) [in 353 ms]
+[2016.02.13-13.56.25:124][125]BlueprintEditorCompileResults:Warning: Warning  Transform (Modify) Bone - Bone: Bone_GunFinger01  - No components to modify selected.  Either Rotation, Translation, or Scale should be set to something other than Ignore
+[2016.02.13-13.56.25:124][125]BlueprintEditorCompileResults:Warning: Warning [5222.13] Compile of Barbacan_Anim successful, but with 1 Warning(s) [in 353 ms]
+[2016.02.13-13.56.34:201][216]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.56.34:590][216]LogSavePackage: Save=50.809811ms
+[2016.02.13-13.56.34:590][216]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim8377A44C427B49193F0CE69E8F9276B4.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.56.34:594][216]LogSavePackage: Total save time: 68.669032ms
+[2016.02.13-13.56.34:594][216]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.56.34:598][216]BlueprintEditorCompileResults: Info [5231.61] Compile of Barbacan_Anim successful! [in 397 ms]
+[2016.02.13-13.56.45:580][304]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.56.45:983][304]LogSavePackage: Save=49.214600ms
+[2016.02.13-13.56.45:983][304]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimB1640B6949C07B86CF85968DFE1421ED.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.56.45:987][304]LogSavePackage: Total save time: 81.093829ms
+[2016.02.13-13.56.45:987][304]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.56.45:991][304]BlueprintEditorCompileResults: Info [5243.00] Compile of Barbacan_Anim successful! [in 410 ms]
+[2016.02.13-13.57.24:077][654]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.57.24:522][654]LogSavePackage: Save=51.008373ms
+[2016.02.13-13.57.24:522][654]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim6498286746D56A1A207EC6826BE55FF2.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.57.24:526][654]LogSavePackage: Total save time: 86.018678ms
+[2016.02.13-13.57.24:526][654]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.57.24:531][654]BlueprintEditorCompileResults: Info [5281.54] Compile of Barbacan_Anim successful! [in 452 ms]
+[2016.02.13-13.57.34:676][731]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.57.35:092][731]LogSavePackage: Save=58.902325ms
+[2016.02.13-13.57.35:093][731]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim10A2A24B478059BEFE950597AE954FE9.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.57.35:096][731]LogSavePackage: Total save time: 73.475193ms
+[2016.02.13-13.57.35:096][731]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.57.35:100][731]BlueprintEditorCompileResults: Info [5292.10] Compile of Barbacan_Anim successful! [in 424 ms]
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_41.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_40.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_39.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_51.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:AnimGraph.AnimGraphNode_StateMachine_4.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_38.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_43.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.57.43:548][810]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_44.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.58.04:536][ 45]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.58.04:987][ 45]LogSavePackage: Save=55.637386ms
+[2016.02.13-13.58.04:987][ 45]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimAB92DEE743C0B7D46AF7809A2B2B8AB9.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.58.04:990][ 45]LogSavePackage: Total save time: 91.134954ms
+[2016.02.13-13.58.04:990][ 45]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.58.04:995][ 45]BlueprintEditorCompileResults: Info [5322.00] Compile of Barbacan_Anim successful! [in 458 ms]
+[2016.02.13-13.58.22:455][169]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.58.22:878][169]LogSavePackage: Save=57.798393ms
+[2016.02.13-13.58.22:878][169]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim69BC47B94FB55BB01B045BB4DEB14B8C.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.58.22:881][169]LogSavePackage: Total save time: 72.962940ms
+[2016.02.13-13.58.22:881][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.58.22:886][169]BlueprintEditorCompileResults: Info [5339.89] Compile of Barbacan_Anim successful! [in 429 ms]
+[2016.02.13-13.58.52:532][381]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.58.52:996][381]LogSavePackage: Save=57.449009ms
+[2016.02.13-13.58.52:996][381]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim527CE2D14B34CDB5B3B3B28ACB228AAE.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.58.52:999][381]LogSavePackage: Total save time: 99.999420ms
+[2016.02.13-13.58.52:999][381]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.58.53:005][381]BlueprintEditorCompileResults: Info [5370.01] Compile of Barbacan_Anim successful! [in 472 ms]
+[2016.02.13-13.59.08:401][492]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.59.08:855][492]LogSavePackage: Save=57.127735ms
+[2016.02.13-13.59.08:855][492]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim012BCF20469164EEAF1E83BFCE6EBAEE.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.59.08:858][492]LogSavePackage: Total save time: 91.468275ms
+[2016.02.13-13.59.08:859][492]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.59.08:863][492]BlueprintEditorCompileResults: Info [5385.86] Compile of Barbacan_Anim successful! [in 462 ms]
+[2016.02.13-13.59.25:640][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_56.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_66 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:AnimGraph.AnimGraphNode_StateMachine_4.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_66
+[2016.02.13-13.59.25:641][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_56.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_54 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_51.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_54
+[2016.02.13-13.59.25:642][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_56.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_54 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:AnimGraph.AnimGraphNode_StateMachine_4.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_54
+[2016.02.13-13.59.25:643][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_41.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:643][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_40.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:643][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_39.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:643][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_51.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:644][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:AnimGraph.AnimGraphNode_StateMachine_4.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:644][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_38.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:644][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_43.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:644][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_44.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.25:644][633]LogUObjectHash:Warning: Ambiguous search, could be AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_42.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40 or AnimGraphNode_ModifyBone /Game/Factions/Security/Barbacan/Meshes/Barbacan_Anim.Barbacan_Anim:ExecuteUbergraph_Barbacan_Anim.AnimGraphNode_StateMachine_56.Turret.AnimStateNode_3.Tracking.AnimGraphNode_ModifyBone_40
+[2016.02.13-13.59.41:735][822]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-13.59.42:226][822]LogSavePackage: Save=64.250183ms
+[2016.02.13-13.59.42:226][822]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimB5C5A7EB4B0A9CEADEE1A084A176019D.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-13.59.42:230][822]LogSavePackage: Total save time: 99.589352ms
+[2016.02.13-13.59.42:230][822]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-13.59.42:234][822]BlueprintEditorCompileResults: Info [5419.23] Compile of Barbacan_Anim successful! [in 497 ms]
+[2016.02.13-14.00.01:006][ 20]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.00.01:483][ 20]LogSavePackage: Save=64.270264ms
+[2016.02.13-14.00.01:483][ 20]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim118371294C4E2F6D4B7C91924FCDBA1D.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.00.01:487][ 20]LogSavePackage: Total save time: 79.976957ms
+[2016.02.13-14.00.01:487][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.00.01:491][ 20]BlueprintEditorCompileResults: Info [5438.49] Compile of Barbacan_Anim successful! [in 485 ms]
+[2016.02.13-14.00.17:179][133]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.00.17:674][133]LogSavePackage: Save=64.987778ms
+[2016.02.13-14.00.17:674][133]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim3DC7B407408A3FBFEBD060822EC08999.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.00.17:678][133]LogSavePackage: Total save time: 98.579127ms
+[2016.02.13-14.00.17:678][133]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.00.17:682][133]BlueprintEditorCompileResults: Info [5454.68] Compile of Barbacan_Anim successful! [in 502 ms]
+[2016.02.13-14.00.26:037][222]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.00.26:520][222]LogSavePackage: Save=66.214859ms
+[2016.02.13-14.00.26:520][222]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimD62F84364DEF806259805F8702439153.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.00.26:524][222]LogSavePackage: Total save time: 83.809037ms
+[2016.02.13-14.00.26:524][222]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.00.26:530][222]BlueprintEditorCompileResults: Info [5463.53] Compile of Barbacan_Anim successful! [in 493 ms]
+[2016.02.13-14.00.44:266][349]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.00.44:749][349]LogSavePackage: Save=65.714653ms
+[2016.02.13-14.00.44:749][349]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim17A3F669497540745D9BF38CDD0C0453.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.00.44:752][349]LogSavePackage: Total save time: 98.114617ms
+[2016.02.13-14.00.44:752][349]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.00.44:757][349]BlueprintEditorCompileResults: Info [5481.75] Compile of Barbacan_Anim successful! [in 490 ms]
+[2016.02.13-14.01.20:960][749]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.01.21:446][749]LogSavePackage: Save=67.197868ms
+[2016.02.13-14.01.21:446][749]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim06633CFB4B2FF113DB49108BA52DE359.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.01.21:459][749]LogSavePackage: Total save time: 111.404173ms
+[2016.02.13-14.01.21:459][749]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.01.21:463][749]BlueprintEditorCompileResults: Info [5518.46] Compile of Barbacan_Anim successful! [in 503 ms]
+[2016.02.13-14.01.26:845][792]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.01.27:327][792]LogSavePackage: Save=65.975243ms
+[2016.02.13-14.01.27:327][792]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimD7916C644262D5E7A92262A64C6E9307.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.01.27:331][792]LogSavePackage: Total save time: 80.690455ms
+[2016.02.13-14.01.27:331][792]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.01.27:335][792]BlueprintEditorCompileResults: Info [5524.33] Compile of Barbacan_Anim successful! [in 489 ms]
+[2016.02.13-14.01.46:251][924]LogSavePackage: Save=55.714581ms
+[2016.02.13-14.01.46:251][924]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim6E5373C547AA82CBBF551887B43B6477.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.01.46:254][924]LogSavePackage: Total save time: 89.329578ms
+[2016.02.13-14.01.46:254][924]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.02.57:196][690]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.02.57:878][690]LogSavePackage: Save=74.536728ms
+[2016.02.13-14.02.57:878][690]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim2DA3CCDA49D3CC3F843194A00B849139.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.02.57:949][690]LogSavePackage: Total save time: 176.152777ms
+[2016.02.13-14.02.57:949][690]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.02.57:954][690]BlueprintEditorCompileResults: Info [5614.95] Compile of Barbacan_Anim successful! [in 757 ms]
+[2016.02.13-14.03.06:871][818]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.03.07:349][818]LogSavePackage: Save=70.755966ms
+[2016.02.13-14.03.07:349][818]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim013905C04735B0090CC1A790F8153C03.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.03.07:353][818]LogSavePackage: Total save time: 85.826363ms
+[2016.02.13-14.03.07:353][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.03.07:358][818]BlueprintEditorCompileResults: Info [5624.35] Compile of Barbacan_Anim successful! [in 486 ms]
+[2016.02.13-14.04.01:601][468]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.04.02:186][468]LogSavePackage: Save=76.821785ms
+[2016.02.13-14.04.02:186][468]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimECCEA39B41C52348A3494E938352C086.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.04.02:189][468]LogSavePackage: Total save time: 117.467757ms
+[2016.02.13-14.04.02:189][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.04.02:194][468]BlueprintEditorCompileResults: Info [5679.18] Compile of Barbacan_Anim successful! [in 592 ms]
+[2016.02.13-14.04.22:155][624]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.04.22:428][624]BlueprintEditorCompileResults: Info [5699.42] Compile of Barbacan_Anim successful! [in 272 ms]
+[2016.02.13-14.04.55:217][  8]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.04.55:791][  8]LogSavePackage: Save=77.375092ms
+[2016.02.13-14.04.55:791][  8]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim8D0D6933446D67293A82DDAFD35C1820.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.04.55:795][  8]LogSavePackage: Total save time: 111.917317ms
+[2016.02.13-14.04.55:795][  8]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.04.55:799][  8]BlueprintEditorCompileResults: Info [5732.79] Compile of Barbacan_Anim successful! [in 582 ms]
+[2016.02.13-14.06.03:601][754]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.06.04:177][754]LogSavePackage: Save=81.063484ms
+[2016.02.13-14.06.04:177][754]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim2D8E24BF4141A666C1169EB8DA4B56C1.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.06.04:191][754]LogSavePackage: Total save time: 127.868984ms
+[2016.02.13-14.06.04:191][754]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.06.04:196][754]BlueprintEditorCompileResults: Info [5801.18] Compile of Barbacan_Anim successful! [in 594 ms]
+[2016.02.13-14.06.16:426][873]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.06.17:001][873]LogSavePackage: Save=81.676140ms
+[2016.02.13-14.06.17:001][873]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimB67444D34B8C8F2E24C7ABB6ABC4A4D4.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.06.17:005][873]LogSavePackage: Total save time: 97.038351ms
+[2016.02.13-14.06.17:005][873]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.06.17:009][873]BlueprintEditorCompileResults: Info [5813.99] Compile of Barbacan_Anim successful! [in 582 ms]
+[2016.02.13-14.06.39:270][ 95]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.06.39:551][ 95]BlueprintEditorCompileResults: Info [5836.54] Compile of Barbacan_Anim successful! [in 280 ms]
+[2016.02.13-14.07.01:258][249]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.07.01:795][249]LogSavePackage: Save=82.018829ms
+[2016.02.13-14.07.01:795][249]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_AnimE1DA32674920A53ED933A6B2FA283DF2.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.07.01:799][249]LogSavePackage: Total save time: 117.676139ms
+[2016.02.13-14.07.01:799][249]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.07.01:804][249]BlueprintEditorCompileResults: Info [5858.79] Compile of Barbacan_Anim successful! [in 545 ms]
+[2016.02.13-14.07.17:918][364]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.07.18:208][364]BlueprintEditorCompileResults: Info [5875.19] Compile of Barbacan_Anim successful! [in 289 ms]
+[2016.02.13-14.07.27:002][482]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.07.28:047][523]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-14.07.28:207][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_11) Not registered. Aborting.
+[2016.02.13-14.07.28:260][523]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000380E5A80
+[2016.02.13-14.07.28:261][523]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000039708540
+[2016.02.13-14.07.28:262][523]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003970BD80
+[2016.02.13-14.07.28:464][523]LogSavePackage: Save=40.139523ms
+[2016.02.13-14.07.28:464][523]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan84C91F154EEE83DB26CC75B1DD65F54C.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-14.07.28:468][523]LogSavePackage: Total save time: 58.325820ms
+[2016.02.13-14.07.28:468][523]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-14.07.28:472][523]BlueprintEditorCompileResults: Info [5885.46] Compile of BP_Barbacan successful! [in 425 ms]
+[2016.02.13-14.07.41:897][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-14.07.41:900][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.07.41:900][862]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_12) Not registered. Aborting.
+[2016.02.13-14.07.42:223][862]LogSavePackage: Save=245.160034ms
+[2016.02.13-14.07.42:223][862]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTestF0B95E5B497425D3D2AA8A9F7EFAE7D5.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-14.07.42:226][862]LogSavePackage: Total save time: 267.035622ms
+[2016.02.13-14.07.42:226][862]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-14.07.50:640][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.13-14.07.50:699][ 93]PIE: New page: PIE session: OpTest (13 Feb 2016 14:07:50)
+[2016.02.13-14.07.50:733][ 93]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OpTest
+[2016.02.13-14.07.50:958][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.225109s)
+[2016.02.13-14.07.50:959][ 93]LogAIModule: Creating AISystem for world OpTest
+[2016.02.13-14.07.50:959][ 93]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2016.02.13-14.07.50:985][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpTest.OpTest to /Game/Maps/UEDPIE_0_OpTest.OpTest (0.252192s)
+[2016.02.13-14.07.51:072][ 93]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003CA685E0
+[2016.02.13-14.07.51:073][ 93]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003ABF47C0
+[2016.02.13-14.07.51:117][ 93]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.13-14.07.51:126][ 93]LogInit: FAudioDevice initialized.
+[2016.02.13-14.07.51:477][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/BP_MarsPrimary_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:519][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Fall.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:545][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Mesh_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:566][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Jump.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:593][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_PTV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:616][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Sit.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:633][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_BS1D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:650][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Forward.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:722][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Sounds/Effects/TFWalkCue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.51:775][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Idle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.52:254][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/MarsPrimary/Weapon/BP_MarsWeapon01.BP_MarsWeapon01_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.52:317][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/MarsPrimary/Meshes/MarsPrimary_Mesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.53:287][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/CommandCentre/Structure/TFCommandCentre_Build_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.53:772][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/CommandCentre/Structure/TFCommandCentre_Build_Diffuse_Mat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.53:944][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/CommandCentre/Structure/BP_TFCommandCentre_Build.BP_TFCommandCentre_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.53:974][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/CommandCentre/Structure/BP_TFCommandCentre_Placement.BP_TFCommandCentre_Placement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.54:011][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/Conduit/Structure/TFConduit_Build_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.54:418][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/Conduit/Mesh/BP_TFConduit_SG.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.54:740][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/Conduit/Structure/BP_TFConduit_SGBuild.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.54:780][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Conduit/Structure/BP_TFConduit_SGBuild.BP_TFConduit_SGBuild_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.55:203][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Conduit/Structure/BP_TFConduitBuild.BP_TFConduitBuild_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.55:259][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Conduit/Structure/BP_TFConduitPlacement.BP_TFConduitPlacement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.56:052][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/He3Container/Structure/BP_TFContainer_Build.BP_TFContainer_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.56:082][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/He3Container/Structure/BP_TFContainer_Placement.BP_TFContainer_Placement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.56:542][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/He3Extractor/Meshes/BP_TFHe3Extractor.BP_TFHe3Extractor_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.56:623][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/He3Extractor/Structure/BP_TFHe3Extractor_Build.BP_TFHe3Extractor_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.56:735][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/T1Factory/Structure/TFFacT1Build_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.57:244][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Juno/Meshes/BP_JunoWeapon.BP_JunoWeapon_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.57:731][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Juno/Meshes/BP_JunoAssault.BP_JunoAssault_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.57:784][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Juno/Meshes/BP_JunoBuild.BP_JunoBuild_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.58:836][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/SaturnTurret/Deployed/BP_SaturnProj.BP_SaturnProj_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.58:979][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/SaturnTurret/Meshes/BP_SaturnTurretPlacement.BP_SaturnTurretPlacement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.59:055][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/SaturnTurret/Meshes/BP_SaturnTurret.BP_SaturnTurret_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.59:090][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/SaturnTurret/Meshes/BP_SaturnBuild.BP_SaturnBuild_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.59:627][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/T1Factory/Structure/BP_TFFacT1_Build.BP_TFFacT1_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.59:681][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/T1Factory/Structure/BP_TFFacT1_Placement.BP_TFFacT1_Placement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.07.59:736][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_BuildAnim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.59:759][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_Build_Anim.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.59:772][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_Build_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.59:928][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Meshes/TFVB_BuildPTV.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.07.59:949][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Meshes/TFVB_Mesh_Skeleton.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.00:249][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Meshes/TFPTV_Idle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.00:285][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Meshes/TFPTV_Kneel.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.00:311][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Meshes/TFPTV_Stand.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.00:386][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Weapon/BP_TFPTV_WHit.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.00:400][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/StarterContent/Audio/Explosion_Cue.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.01:000][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/StarterContent/Particles/P_Smoke.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.01:702][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Materials/TFPTV_Icon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.01:726][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Meshes/TFPTV_Mesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.02:348][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/PTV/Meshes/TFPTV_Build.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.02:356][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/PTV/Meshes/BP_TFPTV_Build.BP_TFPTV_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.08.03:250][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/Sancus/Mesh/BP_SancusBuild.BP_SancusBuild_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.08.03:265][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID03_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:280][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:305][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_Icon.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:356][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Meshes/TFVB_Mesh.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:371][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:396][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID01_Diffuse.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:411][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID01_Emissive.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:421][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID01_Metallic.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:455][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID01_NormalBump.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:475][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:499][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID02_Diffuse.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:518][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID02_Metallic.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:554][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Materials/TFVB_ID02_NormalBump.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:568][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Meshes/TFVB_Mesh_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:621][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_Build.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:636][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_Build_PhysicsAsset.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:646][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/VehicleBeacon/Structure/BP_TFVB_Build.BP_TFVB_Build_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.08.03:665][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/BP_TFVB_Placement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:707][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/TerraFirma/VehicleBeacon/Structure/TFVB_Placement.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.03:723][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/VehicleBeacon/Structure/BP_TFVB_Placement.BP_TFVB_Placement_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.08.03:730][ 93]LogLinker:Warning: CreateExport: Failed to load Parent for Function /Game/Factions/TerraFirma/MarsPrimary/Meshes/BP_MarsPrimary.BP_MarsPrimary_C:UserConstructionScript; removing parent information, but keeping function
+[2016.02.13-14.08.23:140][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Sounds/Effects/MechFoot1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.23:175][ 93]LogLinker:Warning: Asset '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Environment/Sounds/Effects/MechFoot2.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.02.13-14.08.26:416][ 93]LogWorld: Game class is 'BP_Opulentium_C'
+[2016.02.13-14.08.26:439][ 93]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OpTest.OpTest up for play (max tick rate 60) at 2016.02.13-14.08.26
+[2016.02.13-14.08.26:439][ 93]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.08.26:446][ 93]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.08.26:748][ 93]LogWorld: Bringing up level for play took: 0.330601
+[2016.02.13-14.08.26:777][ 93]LogVoice:Warning: Failed to initialize voice interface
+[2016.02.13-14.08.26:979][ 93]LogOnline:Warning: NULL: Can't start an online game for session (Game) that hasn't been created
+[2016.02.13-14.08.27:377][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:377][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:377][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:377][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:378][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:378][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:378][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:378][ 93]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.08.27:423][ 93]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_OpTest 36.041
+[2016.02.13-14.08.27:521][ 93]PIE:Warning: Warning The widget 'BP_OpHUD_C' was already added to the screen.
+[2016.02.13-14.08.28:160][ 93]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.08.28:176][ 93]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.08.28:176][ 93]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.08.28:176][ 93]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.43:005][ 93]LogOutputDevice:Warning: === Handled error: ===
+
+Ensure condition failed: false [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateRHIResourceManager.cpp] [Line: 595]
+Slate RHI Error - Invalid Texture2D 'BarPanel'.
+Stack: 
+UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:175]
+UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\core\private\misc\outputdevice.cpp:276]
+UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\core\private\misc\outputdevice.cpp:385]
+UE4Editor-SlateRHIRenderer.dll!FSlateRHIResourceManager::FindOrCreateDynamicTextureResource() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slaterhirenderer\private\slaterhiresourcemanager.cpp:595]
+UE4Editor-SlateCore.dll!FSlateElementBatcher::AddBoxElement() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slatecore\private\rendering\elementbatcher.cpp:268]
+UE4Editor-SlateCore.dll!FSlateElementBatcher::AddElements() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slatecore\private\rendering\elementbatcher.cpp:129]
+UE4Editor-SlateRHIRenderer.dll!FSlateRHIRenderer::DrawWindows_Private() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slaterhirenderer\private\slaterhirenderer.cpp:591]
+UE4Editor-Slate.dll!FSlateApplication::PrivateDrawWindows() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1200]
+UE4Editor-Slate.dll!FSlateApplication::DrawWindows() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:927]
+UE4Editor-Slate.dll!FSlateApplication::Tick() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1441]
+UE4Editor.exe!FEngineLoop::Tick() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\launch\private\launchengineloop.cpp:2460]
+UE4Editor.exe!GuardedMain() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\launch\private\launch.cpp:142]
+UE4Editor.exe!GuardedMainWrapper() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\launch\private\windows\launchwindows.cpp:126]
+UE4Editor.exe!WinMain() [d:\buildfarm\buildmachine_++depot+ue4-releases+4.10\engine\source\runtime\launch\private\windows\launchwindows.cpp:200]
+UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:264]
+kernel32.dll
+ntdll.dll
+ntdll.dll
+
+[2016.02.13-14.09.58:991][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.58:991][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.58:992][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.58:992][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:024][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:024][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:024][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:024][ 94]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:312][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:312][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:312][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:312][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:318][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:318][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:318][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:318][ 95]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:328][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:329][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:329][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:329][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:335][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:335][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:335][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:335][ 96]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:493][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:493][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:493][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:493][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.09.59:506][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_0
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.09.59:506][ 97]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_1
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.02:294][125]LogScript:Warning: Attempted to get an item from array Factions out of bounds [-1/7]!
+[2016.02.13-14.10.02:294][125]LogScript:Warning: Attempted to get an item from array Teams out of bounds [-1/0]!
+[2016.02.13-14.10.02:294][125]LogScript:Warning: Attempted to get an item from array Names out of bounds [-1/7]!
+[2016.02.13-14.10.12:268][160]LogProjectileMovement:Warning: GetSimulationTimeStep() - Max iterations 10 hit while remaining time 0.130000 > MaxSimulationTimeStep (0.030) for '/Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.BP_MarsProj01_C_0.DefaultSceneRoot'
+[2016.02.13-14.10.12:350][161]LogProjectileMovement:Warning: GetSimulationTimeStep() - Max iterations 10 hit while remaining time 0.130000 > MaxSimulationTimeStep (0.030) for '/Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.BP_MarsProj01_C_0.DefaultSceneRoot'
+[2016.02.13-14.10.50:894][558]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_2
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.50:894][558]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_2
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.50:947][559]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_2
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.50:947][559]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_2
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:676][597]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:676][597]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:765][598]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:765][598]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:777][598]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:777][598]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:854][599]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:854][599]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:860][599]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:860][599]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:959][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:959][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.54:967][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.54:967][600]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.55:047][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.55:047][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.55:054][601]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_3
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:155][633]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:155][633]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:237][634]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:237][634]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:252][634]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:252][634]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:334][635]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:334][635]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:350][635]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:350][635]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:428][636]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:428][636]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:444][636]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:444][636]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:532][637]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.10.58:532][637]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.10.58:540][637]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_4
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.11.35:377][998]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_5
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.11.35:377][998]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_5
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.11.35:463][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_5
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.11.35:463][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_5
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.11.35:663][  1]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_6
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.11.35:664][  1]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_6
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.11.35:747][  2]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_6
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.11.35:747][  2]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_0.BP_MinimapIcon_C_6
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.11.41:893][ 63]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.11.41:908][ 63]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2016.02.13-14.11.42:221][ 63]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000004677E520
+[2016.02.13-14.11.42:431][ 64]LogPlayLevel:Display: Destroying online subsystem :Context_19
+[2016.02.13-14.11.42:447][ 64]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.12.03:892][503]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.12.14:412][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_13) Not registered. Aborting.
+[2016.02.13-14.12.18:189][196]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_14) Not registered. Aborting.
+[2016.02.13-14.12.20:147][308]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_15) Not registered. Aborting.
+[2016.02.13-14.12.29:522][844]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_16) Not registered. Aborting.
+[2016.02.13-14.12.37:021][229]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_17) Not registered. Aborting.
+[2016.02.13-14.12.45:498][704]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_18) Not registered. Aborting.
+[2016.02.13-14.12.51:270][ 35]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_19) Not registered. Aborting.
+[2016.02.13-14.13.01:490][448]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-14.13.01:533][448]LogUObjectGlobals:Warning: Guid is in use by CapsuleComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_43.CollisionCylinder and CapsuleComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_C_1.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.02.13-14.13.01:533][448]LogUObjectGlobals:Warning: Guid is in use by ArrowComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_43.Arrow and ArrowComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_C_1.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.02.13-14.13.01:533][448]LogUObjectGlobals:Warning: Guid is in use by CharacterMovementComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_43.CharMoveComp and CharacterMovementComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_C_1.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.02.13-14.13.01:533][448]LogUObjectGlobals:Warning: Guid is in use by SkeletalMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_43.CharacterMesh0 and SkeletalMeshComponent /Game/Maps/OpTest.OpTest:PersistentLevel.BP_Barbacan_C_1.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.02.13-14.13.01:727][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_20) Not registered. Aborting.
+[2016.02.13-14.13.01:783][448]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002AB9BB00
+[2016.02.13-14.13.02:101][448]LogSavePackage: Save=42.427700ms
+[2016.02.13-14.13.02:101][448]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan7CCB3F23451BACE36ED40E9FD18D4563.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-14.13.02:106][448]LogSavePackage: Total save time: 170.022707ms
+[2016.02.13-14.13.02:106][448]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-14.13.02:110][448]BlueprintEditorCompileResults: Info [6219.08] Compile of BP_Barbacan successful! [in 620 ms]
+[2016.02.13-14.13.10:578][634]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.13.20:284][809]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_21) Not registered. Aborting.
+[2016.02.13-14.13.25:014][864]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_22) Not registered. Aborting.
+[2016.02.13-14.13.26:520][881]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_23) Not registered. Aborting.
+[2016.02.13-14.13.30:152][924]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_24) Not registered. Aborting.
+[2016.02.13-14.13.31:453][938]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_25) Not registered. Aborting.
+[2016.02.13-14.13.33:516][962]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_26) Not registered. Aborting.
+[2016.02.13-14.13.34:137][968]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_27) Not registered. Aborting.
+[2016.02.13-14.13.36:545][ 14]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-14.13.36:711][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_28) Not registered. Aborting.
+[2016.02.13-14.13.37:008][ 14]LogSavePackage: Save=40.207794ms
+[2016.02.13-14.13.37:008][ 14]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan3C1EAEAA416CC9DCCBE5B8A079E42227.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-14.13.37:018][ 14]LogSavePackage: Total save time: 83.900955ms
+[2016.02.13-14.13.37:018][ 14]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-14.13.37:022][ 14]BlueprintEditorCompileResults: Info [6253.99] Compile of BP_Barbacan successful! [in 476 ms]
+[2016.02.13-14.13.40:686][ 80]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.13.41:511][100]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-14.13.41:678][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_29) Not registered. Aborting.
+[2016.02.13-14.13.41:938][100]LogSavePackage: Save=39.798168ms
+[2016.02.13-14.13.41:938][100]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_Barbacan22B99A2F48074A50B7FD58BA695DDB92.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-14.13.41:943][100]LogSavePackage: Total save time: 55.196080ms
+[2016.02.13-14.13.41:943][100]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-14.13.41:947][100]BlueprintEditorCompileResults: Info [6258.92] Compile of BP_Barbacan successful! [in 435 ms]
+[2016.02.13-14.13.48:186][188]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2016.02.13-14.14.30:311][476]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.14.30:577][476]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.14.31:176][476]LogSavePackage: Save=97.220856ms
+[2016.02.13-14.14.31:177][476]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/Barbacan_Anim40801AF84101D092C548DE86095088E6.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset'
+[2016.02.13-14.14.31:179][476]LogSavePackage: Total save time: 237.938978ms
+[2016.02.13-14.14.31:179][476]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/Barbacan_Anim.uasset
+[2016.02.13-14.14.31:183][476]BlueprintEditorCompileResults: Info [6308.15] Compile of Barbacan_Anim successful! [in 872 ms]
+[2016.02.13-14.14.33:553][494]BlueprintLog: New page: Compile Barbacan_Anim
+[2016.02.13-14.14.33:869][494]BlueprintEditorCompileResults: Info [6310.84] Compile of Barbacan_Anim successful! [in 316 ms]
+[2016.02.13-14.15.05:218][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-14.15.05:275][728]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000467B7100
+[2016.02.13-14.15.05:276][728]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003B5327A0
+[2016.02.13-14.15.05:277][728]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003ABFFE20
+[2016.02.13-14.15.05:549][728]LogSavePackage: Save=247.052872ms
+[2016.02.13-14.15.05:549][728]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTestCBBBCD554EFF2C124DBCC49A66CB205F.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-14.15.05:553][728]LogSavePackage: Total save time: 268.238168ms
+[2016.02.13-14.15.05:553][728]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-14.15.06:535][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.13-14.15.06:535][736]PIE: New page: PIE session: OpTest (13 Feb 2016 14:15:06)
+[2016.02.13-14.15.06:535][736]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OpTest
+[2016.02.13-14.15.07:112][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.576528s)
+[2016.02.13-14.15.07:112][736]LogAIModule: Creating AISystem for world OpTest
+[2016.02.13-14.15.07:112][736]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2016.02.13-14.15.07:113][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpTest.OpTest to /Game/Maps/UEDPIE_0_OpTest.OpTest (0.577602s)
+[2016.02.13-14.15.07:343][736]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000CEE00220
+[2016.02.13-14.15.07:343][736]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.13-14.15.07:360][736]LogInit: FAudioDevice initialized.
+[2016.02.13-14.15.07:420][736]LogWorld: Game class is 'BP_Opulentium_C'
+[2016.02.13-14.15.07:432][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OpTest.OpTest up for play (max tick rate 60) at 2016.02.13-14.15.07
+[2016.02.13-14.15.07:432][736]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameSession_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.15.07:442][736]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameNetworkManager_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.15.07:466][736]LogWorld: Bringing up level for play took: 0.043522
+[2016.02.13-14.15.07:542][736]LogVoice:Warning: Failed to initialize voice interface
+[2016.02.13-14.15.07:583][736]LogOnline:Warning: NULL: Can't start an online game for session (Game) that hasn't been created
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:596][736]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.07:599][736]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_OpTest 0.202
+[2016.02.13-14.15.07:618][736]PIE:Warning: Warning The widget 'BP_OpHUD_C' was already added to the screen.
+[2016.02.13-14.15.07:641][736]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:641][736]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:642][736]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:642][736]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:889][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:889][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:889][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:889][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:895][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:896][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:896][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:896][737]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:904][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:904][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:904][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:904][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:910][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:910][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.07:910][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.07:910][738]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:054][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:054][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:054][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:054][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:061][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:061][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:061][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:061][739]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:204][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:204][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:205][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:205][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.08:221][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_7
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.08:221][740]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_8
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.11:221][769]LogScript:Warning: Attempted to get an item from array Factions out of bounds [-1/7]!
+[2016.02.13-14.15.11:221][769]LogScript:Warning: Attempted to get an item from array Teams out of bounds [-1/0]!
+[2016.02.13-14.15.11:221][769]LogScript:Warning: Attempted to get an item from array Names out of bounds [-1/7]!
+[2016.02.13-14.15.12:888][786]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.12:888][786]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.12:986][787]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.12:986][787]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.12:996][787]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.12:996][787]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:070][788]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.13:070][788]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:078][788]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.13:078][788]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:172][789]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.13:172][789]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:180][789]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.13:180][789]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:268][790]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.13:268][790]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.13:279][790]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_1.BP_MinimapIcon_C_9
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.35:763][999]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.15.35:764][999]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2016.02.13-14.15.35:942][999]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000CEDE5BC0
+[2016.02.13-14.15.36:012][  0]LogPlayLevel:Display: Destroying online subsystem :Context_25
+[2016.02.13-14.15.36:012][  0]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.15.46:492][410]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.15.47:849][487]BlueprintLog: New page: Compile BP_Barbacan
+[2016.02.13-14.15.48:023][487]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_30) Not registered. Aborting.
+[2016.02.13-14.15.48:310][487]LogSavePackage: Save=40.402340ms
+[2016.02.13-14.15.48:310][487]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/BP_BarbacanC3157A6847251F60ACE0ED9635347D1F.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset'
+[2016.02.13-14.15.48:325][487]LogSavePackage: Total save time: 88.689711ms
+[2016.02.13-14.15.48:325][487]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Factions/Security/Barbacan/Meshes/BP_Barbacan.uasset
+[2016.02.13-14.15.48:331][487]BlueprintEditorCompileResults: Info [6385.30] Compile of BP_Barbacan successful! [in 481 ms]
+[2016.02.13-14.15.49:546][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-14.15.49:548][509]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2016.02.13-14.15.49:918][509]LogSavePackage: Save=298.961273ms
+[2016.02.13-14.15.49:918][509]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTestCA13FCF040761CC48C927591A5D3DB54.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-14.15.49:922][509]LogSavePackage: Total save time: 313.949551ms
+[2016.02.13-14.15.49:922][509]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-14.15.50:606][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.13-14.15.50:606][515]PIE: New page: PIE session: OpTest (13 Feb 2016 14:15:50)
+[2016.02.13-14.15.50:606][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OpTest
+[2016.02.13-14.15.50:624][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017800s)
+[2016.02.13-14.15.50:624][515]LogAIModule: Creating AISystem for world OpTest
+[2016.02.13-14.15.50:625][515]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2016.02.13-14.15.50:625][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpTest.OpTest to /Game/Maps/UEDPIE_0_OpTest.OpTest (0.018764s)
+[2016.02.13-14.15.50:691][515]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.13-14.15.50:719][515]LogInit: FAudioDevice initialized.
+[2016.02.13-14.15.50:751][515]LogWorld: Game class is 'BP_Opulentium_C'
+[2016.02.13-14.15.50:757][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OpTest.OpTest up for play (max tick rate 60) at 2016.02.13-14.15.50
+[2016.02.13-14.15.50:757][515]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.15.50:757][515]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.15.50:759][515]LogWorld: Bringing up level for play took: 0.006965
+[2016.02.13-14.15.50:770][515]LogVoice:Warning: Failed to initialize voice interface
+[2016.02.13-14.15.50:771][515]LogOnline:Warning: NULL: Can't start an online game for session (Game) that hasn't been created
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:778][515]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.15.50:779][515]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_OpTest -0.619
+[2016.02.13-14.15.50:788][515]PIE:Warning: Warning The widget 'BP_OpHUD_C' was already added to the screen.
+[2016.02.13-14.15.50:801][515]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.50:801][515]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.50:801][515]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.50:801][515]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:027][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:027][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:027][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:028][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:035][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:035][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:035][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:035][516]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:044][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:044][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:044][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:044][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:051][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:051][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:051][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:051][517]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:183][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:183][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:183][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:183][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:190][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:190][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:190][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:190][518]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:304][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:304][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:304][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:304][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.15.51:314][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_10
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.51:314][519]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_MinimapIcon_C_11
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.15.54:492][552]LogScript:Warning: Attempted to get an item from array Factions out of bounds [-1/7]!
+[2016.02.13-14.15.54:492][552]LogScript:Warning: Attempted to get an item from array Teams out of bounds [-1/0]!
+[2016.02.13-14.15.54:492][552]LogScript:Warning: Attempted to get an item from array Names out of bounds [-1/7]!
+[2016.02.13-14.16.05:564][657]LogScript:Warning: Cannot access 'BP_Barbacan_C_1'. It is pending kill. Property: 'Actor_7_3EAB08CE4FC54AC8C503DF8C2A1BD043'
+	BP_Minimap_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_2.BP_OpHUD_C_2.WidgetTree_283.BP_Minimap_45
+	Function /Game/Blueprints/Widget/BP_Minimap.BP_Minimap_C:ExecuteUbergraph_BP_Minimap:089A
+[2016.02.13-14.16.08:311][681]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.16.08:312][681]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2016.02.13-14.16.08:440][681]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000046459440
+[2016.02.13-14.16.08:515][682]LogPlayLevel:Display: Destroying online subsystem :Context_27
+[2016.02.13-14.16.08:515][682]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2016.02.13-14.16.24:858][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/OpTest" FILE="../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.02.13-14.16.25:200][890]LogSavePackage: Save=266.872772ms
+[2016.02.13-14.16.25:201][890]LogSavePackage: Moving '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Saved/OpTest6C1B3CBF4F84E6EE9D5793916EC13CFD.tmp' to '../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap'
+[2016.02.13-14.16.25:204][890]LogSavePackage: Total save time: 283.562902ms
+[2016.02.13-14.16.25:204][890]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Morax/Documents/Unreal Projects/OpulentiumGame/Content/Maps/OpTest.umap
+[2016.02.13-14.16.25:956][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.02.13-14.16.25:956][896]PIE: New page: PIE session: OpTest (13 Feb 2016 14:16:25)
+[2016.02.13-14.16.25:956][896]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_OpTest
+[2016.02.13-14.16.25:972][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016112s)
+[2016.02.13-14.16.25:972][896]LogAIModule: Creating AISystem for world OpTest
+[2016.02.13-14.16.25:973][896]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2016.02.13-14.16.25:973][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/OpTest.OpTest to /Game/Maps/UEDPIE_0_OpTest.OpTest (0.017104s)
+[2016.02.13-14.16.26:042][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.02.13-14.16.26:049][896]LogInit: FAudioDevice initialized.
+[2016.02.13-14.16.26:081][896]LogWorld: Game class is 'BP_Opulentium_C'
+[2016.02.13-14.16.26:087][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_OpTest.OpTest up for play (max tick rate 60) at 2016.02.13-14.16.26
+[2016.02.13-14.16.26:087][896]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.16.26:087][896]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_OpTest.OpTest:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.02.13-14.16.26:089][896]LogWorld: Bringing up level for play took: 0.007049
+[2016.02.13-14.16.26:100][896]LogVoice:Warning: Failed to initialize voice interface
+[2016.02.13-14.16.26:101][896]LogOnline:Warning: NULL: Can't start an online game for session (Game) that hasn't been created
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:108][896]LogPhysics:Warning: FConstraintInstance::GetRefFrame : Contained scale.
+[2016.02.13-14.16.26:109][896]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_OpTest 0.709
+[2016.02.13-14.16.26:122][896]PIE:Warning: Warning The widget 'BP_OpHUD_C' was already added to the screen.
+[2016.02.13-14.16.26:136][896]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:136][896]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:136][896]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:136][896]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:403][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:404][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:404][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:404][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:419][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:419][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:419][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:420][897]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:434][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:434][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:434][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:434][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:441][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:441][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:441][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:441][898]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:582][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:582][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:582][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:582][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:589][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:589][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:589][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:589][899]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:723][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:723][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:724][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:724][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.26:736][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_12
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.26:736][900]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_13
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.29:772][927]LogScript:Warning: Attempted to get an item from array Factions out of bounds [-1/7]!
+[2016.02.13-14.16.29:772][927]LogScript:Warning: Attempted to get an item from array Teams out of bounds [-1/0]!
+[2016.02.13-14.16.29:772][927]LogScript:Warning: Attempted to get an item from array Names out of bounds [-1/7]!
+[2016.02.13-14.16.37:566][996]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_14
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:566][996]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_14
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.37:666][997]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_14
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:666][997]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_14
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.37:776][998]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:776][998]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.37:882][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:882][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.37:893][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:893][999]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.37:999][  0]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.37:999][  0]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_15
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:046C
+[2016.02.13-14.16.38:903][  8]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_16
+	Function /Game/Blueprints/Widget/BP_MinimapIcon.BP_MinimapIcon_C:Get_Background_Brush:0116
+[2016.02.13-14.16.38:903][  8]LogScript:Warning: Accessed None 'PrimaryOwner'
+	BP_MinimapIcon_C /Engine/Transient.UnrealEdEngine_0:BP_OpulentiumInstance_C_3.BP_MinimapIcon_C_16
+	Function /Game/Blueprints/Wi
