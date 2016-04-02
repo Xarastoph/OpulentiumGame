@@ -46,6 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.sln
+.sdf
+.uproject
+.suo
+.png
 Binaries/
 Intermediate/
 Saved/
